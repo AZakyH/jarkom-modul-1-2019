@@ -10,7 +10,9 @@ Bahan utama dari proses ini
 #### b. RJ45
 RJ45 adalah konektor yang akan menghubungkan kabel UTP dengan perangkat
 #### c. Tang Crimping
-
+Tang ini digunakan untuk memasangkan kabel pada RJ45
+#### d. LAN Tester
+Seperti namanya, alat ini digunakan untuk memeriksa apakah kabel yang kita buat berfungsi dengan baik atau tidak
 
 
 ## Referensi
@@ -18,6 +20,6 @@ RJ45 adalah konektor yang akan menghubungkan kabel UTP dengan perangkat
 + http://mediatech.co.id/mediatech-catalog/networking/item/root/rj-45.html
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjcxNjA2MjI4LDY1Mzg1Mzc2MiwtMjEzND
+eyJoaXN0b3J5IjpbMzc5MzI1MDUwLDY1Mzg1Mzc2MiwtMjEzND
 EwNjE1MSw3MjI3NjQzMF19
 -->
