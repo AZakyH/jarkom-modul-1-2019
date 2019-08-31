@@ -8,14 +8,16 @@ Untuk melakukan _wire crimping_ kita membutuhkan peralatan di bawah ini:
 #### a. Kabel UTP
 Bahan utama dari proses ini
 #### b. RJ45
+RJ45 adalah konektor yang akan menghubungkan kabel UTP dengan perangkat
+#### c. Tang Crimping
 
 
 
 ## Referensi
 + https://nyengnyeng.com/macam-macam-kabel-jaringan-komputer/
-
++ http://mediatech.co.id/mediatech-catalog/networking/item/root/rj-45.html
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjUzODUzNzYyLC0yMTM0MTA2MTUxLDcyMj
-c2NDMwXX0=
+eyJoaXN0b3J5IjpbNjcxNjA2MjI4LDY1Mzg1Mzc2MiwtMjEzND
+EwNjE1MSw3MjI3NjQzMF19
 -->
