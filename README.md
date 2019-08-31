@@ -1,5 +1,8 @@
 # Crimping dan Wireshark
 
+## Daftar Isi
+
+
 ## 1. Wire Crimping
 Dalam jaringan komputer, terjadi komunikasi antara satu perangkat dengan perangkat lainnya. Komunikasi itu tentu membutuhkan suatu media. Walaupun sudah ada teknologi komunikasi nirkabel, peran kabel dalam jaringan masih penting dan belum tergantikan. Oleh karena itu dalam modul kali ini, kita akan belajar cara melakukan _crimping_ pada salah satu jenis kabel jaringan yang bernama kabel UTP (_Unshielded Twisted Pair_).
 
@@ -24,7 +27,7 @@ Seperti namanya, alat ini digunakan untuk memeriksa apakah kabel yang kita buat 
 + http://mediatech.co.id/mediatech-catalog/networking/item/root/rj-45.html
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxMDQzNDU0MSwxNTQ0MjM0MzYwLC0yNj
+eyJoaXN0b3J5IjpbMTQyOTQzMzYyNiwxNTQ0MjM0MzYwLC0yNj
 IzNzY4MiwxMzkyODg1MTc4LDM3OTMyNTA1MCw2NTM4NTM3NjIs
 LTIxMzQxMDYxNTEsNzIyNzY0MzBdfQ==
 -->
