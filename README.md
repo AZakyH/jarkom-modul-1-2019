@@ -10,6 +10,8 @@ Untuk melakukan _wire crimping_ kita membutuhkan peralatan di bawah ini:
 
 Bahan utama dari proses ini.
 #### b. RJ45
+![Kabel UTP](images/rj45.jpg)
+
 RJ45 adalah konektor yang akan menghubungkan kabel UTP dengan perangkat.
 #### c. Tang Crimping
 Tang ini digunakan untuk memasangkan kabel pada RJ45.
@@ -22,7 +24,7 @@ Seperti namanya, alat ini digunakan untuk memeriksa apakah kabel yang kita buat 
 + http://mediatech.co.id/mediatech-catalog/networking/item/root/rj-45.html
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTkwNTMzNzM0LDE1NDQyMzQzNjAsLTI2Mj
-M3NjgyLDEzOTI4ODUxNzgsMzc5MzI1MDUwLDY1Mzg1Mzc2Miwt
-MjEzNDEwNjE1MSw3MjI3NjQzMF19
+eyJoaXN0b3J5IjpbLTcxMDQzNDU0MSwxNTQ0MjM0MzYwLC0yNj
+IzNzY4MiwxMzkyODg1MTc4LDM3OTMyNTA1MCw2NTM4NTM3NjIs
+LTIxMzQxMDYxNTEsNzIyNzY0MzBdfQ==
 -->
