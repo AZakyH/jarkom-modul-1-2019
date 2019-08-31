@@ -6,8 +6,7 @@ Dalam jaringan komputer, terjadi komunikasi antara satu perangkat dengan perangk
 ### 1.1 Peralatan yang dibutuhkan
 Untuk melakukan _wire crimping_ kita membutuhkan peralatan di bawah ini:
 #### a. Kabel UTP
-![Kabel UTP](images/kabelutp.jpg =250x250)
-<img src="https://camo.githubusercontent.com/..." data-canonical-src="images/kabelutp.png" width="200" height="400" />
+![Kabel UTP](images/kabelutp.jpg)
 Bahan utama dari proses ini.
 #### b. RJ45
 RJ45 adalah konektor yang akan menghubungkan kabel UTP dengan perangkat.
@@ -22,7 +21,7 @@ Seperti namanya, alat ini digunakan untuk memeriksa apakah kabel yang kita buat 
 + http://mediatech.co.id/mediatech-catalog/networking/item/root/rj-45.html
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg1MDYyNjQ0LC0yNjIzNzY4MiwxMzkyOD
-g1MTc4LDM3OTMyNTA1MCw2NTM4NTM3NjIsLTIxMzQxMDYxNTEs
-NzIyNzY0MzBdfQ==
+eyJoaXN0b3J5IjpbMTU0NDIzNDM2MCwtMjYyMzc2ODIsMTM5Mj
+g4NTE3OCwzNzkzMjUwNTAsNjUzODUzNzYyLC0yMTM0MTA2MTUx
+LDcyMjc2NDMwXX0=
 -->
