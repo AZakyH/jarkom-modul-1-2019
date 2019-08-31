@@ -2,8 +2,8 @@
 
 ## Daftar Isi
 1. [Wire Crimping](#wire-crimping)
-1.1 [Peralatan yang dibutuhkan](#wire-crimping)
-1.2 Jenis-jenis Konfigura
+1.1 [Peralatan yang dibutuhkan](#peralatan-yang-dibutuhkan)
+1.2 [Jenis-jenis Konfigurasi Kabel UTP]()
 
 
 ## 1. Wire Crimping
@@ -30,7 +30,7 @@ Seperti namanya, alat ini digunakan untuk memeriksa apakah kabel yang kita buat 
 + http://mediatech.co.id/mediatech-catalog/networking/item/root/rj-45.html
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5Nzg5NjU2MSwxNTQ0MjM0MzYwLC0yNj
+eyJoaXN0b3J5IjpbLTgxMDM2MTY1OSwxNTQ0MjM0MzYwLC0yNj
 IzNzY4MiwxMzkyODg1MTc4LDM3OTMyNTA1MCw2NTM4NTM3NjIs
 LTIxMzQxMDYxNTEsNzIyNzY0MzBdfQ==
 -->
