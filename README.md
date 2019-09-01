@@ -58,7 +58,7 @@ Berkebalikan dengan kabel Straight-through, pengkabelan ini digunakan untuk meny
 6. Gunakan tang crimping untuk mengunci kabel UTP dalam RJ45 (pastikan ujung kabel masih menempel dengan ujung RJ45 saat penguncian dilakukan)
 7. Terakhir, gunakan LAN tester untuk memastikan kabel yang anda buat bekerja dengan baik.
 
-### 2. Wireshark
+## 2. Wireshark
 Sebuah aplikasi penganalisa paket jaringan. Penganalisa paket jaringan akan mencoba menangkap paket jaringan dan mencoba untuk menampilkan data paket sedetail mungkin. Struktur sebuah paket terdiri dari :
 ### 2.1 Instalasi
 
@@ -76,10 +76,10 @@ Sebuah aplikasi penganalisa paket jaringan. Penganalisa paket jaringan akan menc
 + https://www.wireshark.org/docs/wsug_html_chunked/ChapterIntroduction.html]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4MDIwMzEyNSwyMDk4NTk1MDQ0LDg4MT
-A4MzE4LC0xOTYyMjgyODM4LDIwOTA1Njg3OTcsLTEzMTU3ODQz
-MjQsLTIxMDk2MjI0NDIsLTc4NTAxNjc4NCw3MTAzMjEwMzAsOT
-E1NTk1MzE0LDEyMjk3ODExMTcsLTE0NDg4MjcyNDksLTU2ODg4
-ODk2NCwtMTg2NjQxNzczMCwtNzg4ODcwNjIyLC00MDI4MTE3Mz
-QsMTA4NTk5NTg2MiwxMDM5OTE4NTJdfQ==
+eyJoaXN0b3J5IjpbLTE0OTcyMDM0NTQsMjA5ODU5NTA0NCw4OD
+EwODMxOCwtMTk2MjI4MjgzOCwyMDkwNTY4Nzk3LC0xMzE1Nzg0
+MzI0LC0yMTA5NjIyNDQyLC03ODUwMTY3ODQsNzEwMzIxMDMwLD
+kxNTU5NTMxNCwxMjI5NzgxMTE3LC0xNDQ4ODI3MjQ5LC01Njg4
+ODg5NjQsLTE4NjY0MTc3MzAsLTc4ODg3MDYyMiwtNDAyODExNz
+M0LDEwODU5OTU4NjIsMTAzOTkxODUyXX0=
 -->
