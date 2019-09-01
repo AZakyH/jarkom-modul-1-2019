@@ -31,7 +31,7 @@ Tang ini digunakan untuk memasangkan kabel pada RJ45.
 Seperti namanya, alat ini digunakan untuk memeriksa apakah kabel yang kita buat berfungsi dengan baik atau tidak.
 ### 1.2 Konfigurasi Kabel
 Ada beberapa macam konfigurasi kabel. Dari urutan warnanya yang sesuai standar internasional dapat dibagi menjadi __T568A__ dan __T568B__.
-![Perbedaan urutan warna T568A dan T568B](urutan_warna.png)
+![Perbedaan urutan warna T568A dan T568B](images/urutan_warna.png)
 
 Sedangkan dari pemasangannya dibagi menjadi
 + __Kabel Straight-Through__
@@ -72,10 +72,10 @@ Sebuah aplikasi penganalisa paket jaringan. Penganalisa paket jaringan akan menc
 + https://www.wireshark.org/docs/wsug_html_chunked/ChapterIntroduction.html]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODQ0NzU5ODksODgxMDgzMTgsLTE5Nj
-IyODI4MzgsMjA5MDU2ODc5NywtMTMxNTc4NDMyNCwtMjEwOTYy
-MjQ0MiwtNzg1MDE2Nzg0LDcxMDMyMTAzMCw5MTU1OTUzMTQsMT
-IyOTc4MTExNywtMTQ0ODgyNzI0OSwtNTY4ODg4OTY0LC0xODY2
-NDE3NzMwLC03ODg4NzA2MjIsLTQwMjgxMTczNCwxMDg1OTk1OD
-YyLDEwMzk5MTg1Ml19
+eyJoaXN0b3J5IjpbMjA5ODU5NTA0NCw4ODEwODMxOCwtMTk2Mj
+I4MjgzOCwyMDkwNTY4Nzk3LC0xMzE1Nzg0MzI0LC0yMTA5NjIy
+NDQyLC03ODUwMTY3ODQsNzEwMzIxMDMwLDkxNTU5NTMxNCwxMj
+I5NzgxMTE3LC0xNDQ4ODI3MjQ5LC01Njg4ODg5NjQsLTE4NjY0
+MTc3MzAsLTc4ODg3MDYyMiwtNDAyODExNzM0LDEwODU5OTU4Nj
+IsMTAzOTkxODUyXX0=
 -->
