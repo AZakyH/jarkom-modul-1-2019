@@ -42,8 +42,8 @@ Sedangkan dari pemasangannya dibagi menjadi
   
   Aturan pemasangannya adalah bahwa tiap ujung kabel harus memiliki urutan warna yang sama. Misal ujung yang satu menggunakan susunan warna berdasarkan aturan T568A maka begitu juga ujung lainnya.
 
-+ __Kabel Cross Over__
-  Berkebalikan dengan kabel Straight-through, pengkabelan ini digunakan untuk menyambungkan dua perangkat yang sama. Misalnya antara komputer dengan komputer, router dengan router, switch dengan switch, hub dengan hub.
+#### a. __Kabel Cross Over__
+Berkebalikan dengan kabel Straight-through, pengkabelan ini digunakan untuk menyambungkan dua perangkat yang sama. Misalnya antara komputer dengan komputer, router dengan router, switch dengan switch, hub dengan hub.
   
   ![Kabel Cross Over](images/crossover.png)
   
@@ -75,7 +75,7 @@ Sebuah aplikasi penganalisa paket jaringan. Penganalisa paket jaringan akan menc
 + https://www.wireshark.org/docs/wsug_html_chunked/ChapterIntroduction.html]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0NDQ4NDM5MCwyMDk4NTk1MDQ0LDg4MT
+eyJoaXN0b3J5IjpbMTg0MTg1NTA0NCwyMDk4NTk1MDQ0LDg4MT
 A4MzE4LC0xOTYyMjgyODM4LDIwOTA1Njg3OTcsLTEzMTU3ODQz
 MjQsLTIxMDk2MjI0NDIsLTc4NTAxNjc4NCw3MTAzMjEwMzAsOT
 E1NTk1MzE0LDEyMjk3ODExMTcsLTE0NDg4MjcyNDksLTU2ODg4
