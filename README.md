@@ -72,13 +72,14 @@ Sebuah aplikasi penganalisa paket jaringan. Penganalisa paket jaringan akan menc
 + https://nyengnyeng.com/macam-macam-kabel-jaringan-komputer/
 + http://haidirhmc.blogspot.com/2011/12/urutan-warna-kabel-lan-atau-kabel-t568a.html
 + https://www.nesabamedia.com/pengertian-dan-fungsi-kabel-utp/
++ https://www.berguruit.com/2017/09/cara-crimping-kabel-lan-rj45-yang-baik.html
 + https://www.wireshark.org/docs/wsug_html_chunked/ChapterIntroduction.html]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwMjQ3ODE0LDIwOTg1OTUwNDQsODgxMD
-gzMTgsLTE5NjIyODI4MzgsMjA5MDU2ODc5NywtMTMxNTc4NDMy
-NCwtMjEwOTYyMjQ0MiwtNzg1MDE2Nzg0LDcxMDMyMTAzMCw5MT
-U1OTUzMTQsMTIyOTc4MTExNywtMTQ0ODgyNzI0OSwtNTY4ODg4
-OTY0LC0xODY2NDE3NzMwLC03ODg4NzA2MjIsLTQwMjgxMTczNC
-wxMDg1OTk1ODYyLDEwMzk5MTg1Ml19
+eyJoaXN0b3J5IjpbLTI4MDIwMzEyNSwyMDk4NTk1MDQ0LDg4MT
+A4MzE4LC0xOTYyMjgyODM4LDIwOTA1Njg3OTcsLTEzMTU3ODQz
+MjQsLTIxMDk2MjI0NDIsLTc4NTAxNjc4NCw3MTAzMjEwMzAsOT
+E1NTk1MzE0LDEyMjk3ODExMTcsLTE0NDg4MjcyNDksLTU2ODg4
+ODk2NCwtMTg2NjQxNzczMCwtNzg4ODcwNjIyLC00MDI4MTE3Mz
+QsMTA4NTk5NTg2MiwxMDM5OTE4NTJdfQ==
 -->
