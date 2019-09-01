@@ -138,10 +138,19 @@ Dalam Wireshark terdapat 2 jenis filter yaitu ***Capture Filter*** dan ***Displa
 |---|---|
 | `and` atau `&&` | logical AND |
 | `or` atau `||` | logical OR |
-|  | logical XOR |
-|  | logical NOT |
-|  | substring operator |
-|  | membership operator |
+| `xor` atau `^^` | logical XOR |
+| `not` atau `!` | logical NOT |
+| `[...]` | substring operator |
+| `in` | membership operator |
+
+ - Contoh penggunaan display filter :
+
+|  |  |
+|---|---|
+|  |  |
+|  |  |
+|  |  |
+
 ## Referensi
 + https://nyengnyeng.com/macam-macam-kabel-jaringan-komputer/
 + http://haidirhmc.blogspot.com/2011/12/urutan-warna-kabel-lan-atau-kabel-t568a.html
@@ -150,7 +159,7 @@ Dalam Wireshark terdapat 2 jenis filter yaitu ***Capture Filter*** dan ***Displa
 + https://www.wireshark.org/docs/wsug_html_chunked/ChapterIntroduction.html]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzQwMTUzNTUsLTQzOTMzNzY2LC0xOD
+eyJoaXN0b3J5IjpbLTE4MTYxMDM1MDEsLTQzOTMzNzY2LC0xOD
 A4MjEzNDk0LC0yMDUyMzYxMzMyLC0xMzA0NTg3NTg4LC0xNDk4
 NDk4Nzk4LDc1NjY2Mzk4MSwtODE2NjEwOTg3LC03MDUyODU1MD
 YsMjA5ODU5NTA0NCw4ODEwODMxOCwtMTk2MjI4MjgzOCwyMDkw
