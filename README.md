@@ -27,7 +27,7 @@ Tang ini digunakan untuk memasangkan kabel pada RJ45.
 Seperti namanya, alat ini digunakan untuk memeriksa apakah kabel yang kita buat berfungsi dengan baik atau tidak.
 
 ## 2. Wireshark
-Sebuah pen
+Sebuah aplikasi penganalisa paket jaringan
 ### 2.1 Instalasi
 
 ### 2.2 Filters
@@ -41,5 +41,5 @@ Sebuah pen
 + http://mediatech.co.id/mediatech-catalog/networking/item/root/rj-45.html
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU2ODE1MTk0LDEwMzk5MTg1Ml19
+eyJoaXN0b3J5IjpbLTM2ODY4NDg5MywxMDM5OTE4NTJdfQ==
 -->
