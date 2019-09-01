@@ -117,6 +117,9 @@ Dalam Wireshark terdapat 2 jenis filter yaitu ***Capture Filter*** dan ***Displa
 
 #### 2.2.2 Display Filter
 
+ - Definisi : Memilah paket yang akan ditampilkan dari kumpulan paket yang sudah ditangkap
+ - Secara umum sintaks display filter terdiri ata
+
 ## Referensi
 + https://nyengnyeng.com/macam-macam-kabel-jaringan-komputer/
 + http://haidirhmc.blogspot.com/2011/12/urutan-warna-kabel-lan-atau-kabel-t568a.html
@@ -125,7 +128,7 @@ Dalam Wireshark terdapat 2 jenis filter yaitu ***Capture Filter*** dan ***Displa
 + https://www.wireshark.org/docs/wsug_html_chunked/ChapterIntroduction.html]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTYzMTIxMDEsLTQzOTMzNzY2LC0xOD
+eyJoaXN0b3J5IjpbLTIwNTQ3NDMwODgsLTQzOTMzNzY2LC0xOD
 A4MjEzNDk0LC0yMDUyMzYxMzMyLC0xMzA0NTg3NTg4LC0xNDk4
 NDk4Nzk4LDc1NjY2Mzk4MSwtODE2NjEwOTg3LC03MDUyODU1MD
 YsMjA5ODU5NTA0NCw4ODEwODMxOCwtMTk2MjI4MjgzOCwyMDkw
