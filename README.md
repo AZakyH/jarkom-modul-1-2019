@@ -1,11 +1,11 @@
 # Crimping dan Wireshark
 
 ## Daftar Isi
-+ 1. [Wire Crimping](#wire-crimping)
++ 1.[Wire Crimping](#wire-crimping)
      + 1.1 [Peralatan yang dibutuhkan](#peralatan-yang-dibutuhkan)
      + 1.2 [Jenis-jenis Konfigurasi Kabel UTP]()
      + 1.3 [Langkah-langkah](#langkah-langkah)
-+ 2. [Wireshark](#wireshark)
++ 2.[Wireshark](#wireshark)
 
 
 ## 1. Wire Crimping
