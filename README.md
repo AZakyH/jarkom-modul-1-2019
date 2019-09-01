@@ -42,12 +42,12 @@ Sedangkan dari pemasangannya dibagi menjadi
   
   Aturan pemasangannya adalah bahwa tiap ujung kabel harus memiliki urutan warna yang sama. Misal ujung yang satu menggunakan susunan warna berdasarkan aturan T568A maka begitu juga ujung lainnya.
 
-#### b. __Kabel Cross Over__
+#### b. __Kabel Crossover__
 Berkebalikan dengan kabel Straight-through, pengkabelan ini digunakan untuk menyambungkan dua perangkat yang sama. Misalnya antara komputer dengan komputer, router dengan router, switch dengan switch, hub dengan hub.
   
-  ![Kabel Cross Over](images/crossover.png)
+  ![Kabel Crossover](images/crossover.png)
   
-  Aturan pemasangannya pun berbeda dengan kabel jenis straigh-trough, kabel jenis Crossover memiliki urutan warna yang berbeda dikedua ujungnya. Tapi, perbedaan warna ini tidak boleh sembarangan, karena kedua ujung ini juga memiliki aturan urutan warna. Pada kabel jenis Crossover standar, jika salah satu ujung Pin memiliki susunan warna berdasarkan aturan T568A, maka ujung Pin yang lain harus memiliki urutan warna berdasarkan standar T568B.
+  Aturan pemasangannya pun berbeda dengan kabel jenis straight-trough, kabel jenis Crossover memiliki urutan warna yang berbeda dikedua ujungnya. Tapi, perbedaan warna ini tidak boleh sembarangan, karena kedua ujung ini juga memiliki aturan urutan warna. Pada kabel jenis Crossover standar, jika salah satu ujung Pin memiliki susunan warna berdasarkan aturan T568A, maka ujung Pin yang lain harus memiliki urutan warna berdasarkan standar T568B.
 
 ### 1.3 Langkah - Langkah
 1. Siapkan keperluan crimping (kabel UTP, RJ45, tang crimping, LAN tester)
@@ -76,10 +76,10 @@ Sebuah aplikasi penganalisa paket jaringan. Penganalisa paket jaringan akan menc
 + https://www.wireshark.org/docs/wsug_html_chunked/ChapterIntroduction.html]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTcyMDM0NTQsMjA5ODU5NTA0NCw4OD
-EwODMxOCwtMTk2MjI4MjgzOCwyMDkwNTY4Nzk3LC0xMzE1Nzg0
-MzI0LC0yMTA5NjIyNDQyLC03ODUwMTY3ODQsNzEwMzIxMDMwLD
-kxNTU5NTMxNCwxMjI5NzgxMTE3LC0xNDQ4ODI3MjQ5LC01Njg4
-ODg5NjQsLTE4NjY0MTc3MzAsLTc4ODg3MDYyMiwtNDAyODExNz
-M0LDEwODU5OTU4NjIsMTAzOTkxODUyXX0=
+eyJoaXN0b3J5IjpbLTcwNTI4NTUwNiwyMDk4NTk1MDQ0LDg4MT
+A4MzE4LC0xOTYyMjgyODM4LDIwOTA1Njg3OTcsLTEzMTU3ODQz
+MjQsLTIxMDk2MjI0NDIsLTc4NTAxNjc4NCw3MTAzMjEwMzAsOT
+E1NTk1MzE0LDEyMjk3ODExMTcsLTE0NDg4MjcyNDksLTU2ODg4
+ODk2NCwtMTg2NjQxNzczMCwtNzg4ODcwNjIyLC00MDI4MTE3Mz
+QsMTA4NTk5NTg2MiwxMDM5OTE4NTJdfQ==
 -->
