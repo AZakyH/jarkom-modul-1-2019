@@ -77,7 +77,7 @@ Bagian header berisi alamat dan data lainnya yang dibawa oleh paket. Struktur da
 Payload juga disebut sebagai ***body*** dari paket. Pada bagian inilah data yang akan dikirimkan lewat paket berada
 
 ***3. Trailer***
-trailer, kadang-kadang disebut ***footer***, biasanya memuat sepasang bit 
+trailer, kadang-kadang disebut ***footer***, biasanya memuat sepasang bit yang memberi sinyal pada perangkat penerima bahwa paket sudah mencapai ujungnya. trailer juga bisa memuat semacam rror checking.
 
 ### 2.1 Instalasi
 
@@ -95,7 +95,7 @@ trailer, kadang-kadang disebut ***footer***, biasanya memuat sepasang bit
 + https://www.wireshark.org/docs/wsug_html_chunked/ChapterIntroduction.html]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODcxODI1MDksNzU2NjYzOTgxLC04MT
+eyJoaXN0b3J5IjpbLTEyNzcwNTg4MzksNzU2NjYzOTgxLC04MT
 Y2MTA5ODcsLTcwNTI4NTUwNiwyMDk4NTk1MDQ0LDg4MTA4MzE4
 LC0xOTYyMjgyODM4LDIwOTA1Njg3OTcsLTEzMTU3ODQzMjQsLT
 IxMDk2MjI0NDIsLTc4NTAxNjc4NCw3MTAzMjEwMzAsOTE1NTk1
