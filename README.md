@@ -65,7 +65,7 @@ Sebuah jaringan komputer dibangun dengan tujuan mengirimkan atau menerima data a
 ***1. Header***
 Bagian header berisi alamat dan data lainnya yang dibawa oleh paket. Struktur dari header meliputi :
 | Intruksi | Keterangan |
-| --- | --- |
+|---|---|
 | Panjang paket | Beberapa jaringan sudah memiliki panjang paket yang baku (*fixed-lenght*), sementara yang lain bergantung pada header untuk memuat informasi ini |
 | Sinkronisasi | Beberapa bit yang membantu paket mencocokkan jaringan yang dimaksud |
 | Nomor paket | Menunjukkan urutan dari total paket yang ada |
@@ -164,11 +164,11 @@ Dalam Wireshark terdapat 2 jenis filter yaitu ***Capture Filter*** dan ***Displa
 + https://www.wireshark.org/docs/wsug_html_chunked/ChapterIntroduction.html]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5ODQwMDc5OSwtNDM5MzM3NjYsLTE4MD
-gyMTM0OTQsLTIwNTIzNjEzMzIsLTEzMDQ1ODc1ODgsLTE0OTg0
-OTg3OTgsNzU2NjYzOTgxLC04MTY2MTA5ODcsLTcwNTI4NTUwNi
-wyMDk4NTk1MDQ0LDg4MTA4MzE4LC0xOTYyMjgyODM4LDIwOTA1
-Njg3OTcsLTEzMTU3ODQzMjQsLTIxMDk2MjI0NDIsLTc4NTAxNj
-c4NCw3MTAzMjEwMzAsOTE1NTk1MzE0LDEyMjk3ODExMTcsLTE0
-NDg4MjcyNDldfQ==
+eyJoaXN0b3J5IjpbODg0MjEwMDAzLDEzOTg0MDA3OTksLTQzOT
+MzNzY2LC0xODA4MjEzNDk0LC0yMDUyMzYxMzMyLC0xMzA0NTg3
+NTg4LC0xNDk4NDk4Nzk4LDc1NjY2Mzk4MSwtODE2NjEwOTg3LC
+03MDUyODU1MDYsMjA5ODU5NTA0NCw4ODEwODMxOCwtMTk2MjI4
+MjgzOCwyMDkwNTY4Nzk3LC0xMzE1Nzg0MzI0LC0yMTA5NjIyND
+QyLC03ODUwMTY3ODQsNzEwMzIxMDMwLDkxNTU5NTMxNCwxMjI5
+NzgxMTE3XX0=
 -->
