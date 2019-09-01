@@ -151,7 +151,7 @@ Dalam Wireshark terdapat 2 jenis filter yaitu ***Capture Filter*** dan ***Displa
 | `ip.src == 192.168.0.1 || ip.dst == 192.168.0.1` | Menampilkan semua paket yang berasal dari alamat 192.168.0.1 atau menuju ke alamat 192.168.0.1 |
 | `http.request.uri constains "login"` | Menampilkan semua paket dengan protokol HTTP yang URI nya mengandung string "login" |
 
- - Contoh 
+ - Contoh display filter `http.accept constains "text"`, berikut hasilnya :
 
 ## Referensi
 + https://nyengnyeng.com/macam-macam-kabel-jaringan-komputer/
@@ -161,11 +161,11 @@ Dalam Wireshark terdapat 2 jenis filter yaitu ***Capture Filter*** dan ***Displa
 + https://www.wireshark.org/docs/wsug_html_chunked/ChapterIntroduction.html]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ4MDg3MTAwLC00MzkzMzc2NiwtMTgwOD
-IxMzQ5NCwtMjA1MjM2MTMzMiwtMTMwNDU4NzU4OCwtMTQ5ODQ5
-ODc5OCw3NTY2NjM5ODEsLTgxNjYxMDk4NywtNzA1Mjg1NTA2LD
-IwOTg1OTUwNDQsODgxMDgzMTgsLTE5NjIyODI4MzgsMjA5MDU2
-ODc5NywtMTMxNTc4NDMyNCwtMjEwOTYyMjQ0MiwtNzg1MDE2Nz
-g0LDcxMDMyMTAzMCw5MTU1OTUzMTQsMTIyOTc4MTExNywtMTQ0
-ODgyNzI0OV19
+eyJoaXN0b3J5IjpbMTkzOTg2NjYxNCwtNDM5MzM3NjYsLTE4MD
+gyMTM0OTQsLTIwNTIzNjEzMzIsLTEzMDQ1ODc1ODgsLTE0OTg0
+OTg3OTgsNzU2NjYzOTgxLC04MTY2MTA5ODcsLTcwNTI4NTUwNi
+wyMDk4NTk1MDQ0LDg4MTA4MzE4LC0xOTYyMjgyODM4LDIwOTA1
+Njg3OTcsLTEzMTU3ODQzMjQsLTIxMDk2MjI0NDIsLTc4NTAxNj
+c4NCw3MTAzMjEwMzAsOTE1NTk1MzE0LDEyMjk3ODExMTcsLTE0
+NDg4MjcyNDldfQ==
 -->
