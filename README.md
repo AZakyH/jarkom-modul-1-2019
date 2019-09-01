@@ -100,7 +100,9 @@ Dalam Wireshark terdapat 2 jenis filter yaitu ***Capture Filter*** dan ***Displa
 | dir | Menentukan direction atau arah dari id | src, dst, dan lain-lain |
 | proto | Menentukan protokol dari id | tcp, udp, dan lain-lain |
 
- - Sintaks filter dapat memuat operator, tanda kurung, negasi ( ! / not ), 
+ - Sintaks filter dapat memuat operator, tanda kurung, negasi ( ! / not ), dan kongjungsi ( && / and atau || / or ). Kongjungsi digunakan untuk menghubungkan 2 primitive dalam satu sintaks
+ - Contoh sintaks capture filter :
+
 
 #### 2.2.2 Display Filter1.2 Langkah - 
 
@@ -112,11 +114,11 @@ Dalam Wireshark terdapat 2 jenis filter yaitu ***Capture Filter*** dan ***Displa
 + https://www.wireshark.org/docs/wsug_html_chunked/ChapterIntroduction.html]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM1MjAzODUxLC00MzkzMzc2NiwtMTgwOD
-IxMzQ5NCwtMjA1MjM2MTMzMiwtMTMwNDU4NzU4OCwtMTQ5ODQ5
-ODc5OCw3NTY2NjM5ODEsLTgxNjYxMDk4NywtNzA1Mjg1NTA2LD
-IwOTg1OTUwNDQsODgxMDgzMTgsLTE5NjIyODI4MzgsMjA5MDU2
-ODc5NywtMTMxNTc4NDMyNCwtMjEwOTYyMjQ0MiwtNzg1MDE2Nz
-g0LDcxMDMyMTAzMCw5MTU1OTUzMTQsMTIyOTc4MTExNywtMTQ0
-ODgyNzI0OV19
+eyJoaXN0b3J5IjpbLTE1ODM4Nzk5ODQsLTQzOTMzNzY2LC0xOD
+A4MjEzNDk0LC0yMDUyMzYxMzMyLC0xMzA0NTg3NTg4LC0xNDk4
+NDk4Nzk4LDc1NjY2Mzk4MSwtODE2NjEwOTg3LC03MDUyODU1MD
+YsMjA5ODU5NTA0NCw4ODEwODMxOCwtMTk2MjI4MjgzOCwyMDkw
+NTY4Nzk3LC0xMzE1Nzg0MzI0LC0yMTA5NjIyNDQyLC03ODUwMT
+Y3ODQsNzEwMzIxMDMwLDkxNTU5NTMxNCwxMjI5NzgxMTE3LC0x
+NDQ4ODI3MjQ5XX0=
 -->
