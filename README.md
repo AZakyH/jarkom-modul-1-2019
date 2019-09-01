@@ -35,7 +35,8 @@ Seperti namanya, alat ini digunakan untuk memeriksa apakah kabel yang kita buat 
 3. Urutkan kabel sesuai konfigurasi yang diinginkan (Straight/Cross/yang lainnya).
 4. Potong ujung kabel untuk meratakannya.
 5. Masukkan ujung kabel tersebut ke RJ45 dan pastikan menyentuh ujung RJ45.
-6. Gunakan tang crimping untuk mengunci kabel UTP 
+6. Gunakan tang crimping untuk mengunci kabel UTP dalam RJ45 (pastikan ujung kabel masih menempel dengan ujung RJ45 saat penguncian dilakukan)
+7. Last but not 
 
 ### 2. Wireshark
 Sebuah aplikasi penganalisa paket jaringan. Penganalisa paket jaringan akan mencoba menangkap paket jaringan dan mencoba untuk menampilkan data paket sedetail mungkin. Struktur sebuah paket terdiri dari :
@@ -53,8 +54,8 @@ Sebuah aplikasi penganalisa paket jaringan. Penganalisa paket jaringan akan menc
 + https://www.wireshark.org/docs/wsug_html_chunked/ChapterIntroduction.html]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzODcwMDI4LDcxMDMyMTAzMCw5MTU1OT
-UzMTQsMTIyOTc4MTExNywtMTQ0ODgyNzI0OSwtNTY4ODg4OTY0
-LC0xODY2NDE3NzMwLC03ODg4NzA2MjIsLTQwMjgxMTczNCwxMD
-g1OTk1ODYyLDEwMzk5MTg1Ml19
+eyJoaXN0b3J5IjpbMTI5NjA5MTExMCw3MTAzMjEwMzAsOTE1NT
+k1MzE0LDEyMjk3ODExMTcsLTE0NDg4MjcyNDksLTU2ODg4ODk2
+NCwtMTg2NjQxNzczMCwtNzg4ODcwNjIyLC00MDI4MTE3MzQsMT
+A4NTk5NTg2MiwxMDM5OTE4NTJdfQ==
 -->
