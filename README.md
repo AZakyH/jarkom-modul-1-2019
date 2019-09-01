@@ -103,6 +103,9 @@ Dalam Wireshark terdapat 2 jenis filter yaitu ***Capture Filter*** dan ***Displa
  - Sintaks filter dapat memuat operator, tanda kurung, negasi ( ! / not ), dan kongjungsi ( && / and atau || / or ). Kongjungsi digunakan untuk menghubungkan 2 primitive dalam satu sintaks
  - Contoh sintaks capture filter :
 
+| Filter expression / Primitive(s) | Keterangan |
+|--|--|
+| host 10.151.36.1 | Menangkap semua paket |
 
 #### 2.2.2 Display Filter1.2 Langkah - 
 
@@ -114,7 +117,7 @@ Dalam Wireshark terdapat 2 jenis filter yaitu ***Capture Filter*** dan ***Displa
 + https://www.wireshark.org/docs/wsug_html_chunked/ChapterIntroduction.html]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODM4Nzk5ODQsLTQzOTMzNzY2LC0xOD
+eyJoaXN0b3J5IjpbLTEzOTIzNzg0MjIsLTQzOTMzNzY2LC0xOD
 A4MjEzNDk0LC0yMDUyMzYxMzMyLC0xMzA0NTg3NTg4LC0xNDk4
 NDk4Nzk4LDc1NjY2Mzk4MSwtODE2NjEwOTg3LC03MDUyODU1MD
 YsMjA5ODU5NTA0NCw4ODEwODMxOCwtMTk2MjI4MjgzOCwyMDkw
