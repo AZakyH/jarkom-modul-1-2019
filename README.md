@@ -63,6 +63,7 @@ Wireshark adalah sebuah aplikasi penganalisa paket jaringan. Penganalisa paket j
 Sebuah jaringan komputer dibangun dengan tujuan mengirimkan atau menerima data antara satu end-point dengan end-point lainnya. Data dikirim dalam bentuk paket-paket. Struktur sebuah paket terdiri dari :
 
 ***1. Header***
+Bagian header berisi alamat dan data lainnya yang dibawa oleh paket
 | Intruksi | Keterangan |
 | --- |--- |
 | Panjang paket |  |
@@ -85,11 +86,11 @@ Sebuah jaringan komputer dibangun dengan tujuan mengirimkan atau menerima data a
 + https://www.wireshark.org/docs/wsug_html_chunked/ChapterIntroduction.html]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI3OTM3NjYxLC04MTY2MTA5ODcsLTcwNT
-I4NTUwNiwyMDk4NTk1MDQ0LDg4MTA4MzE4LC0xOTYyMjgyODM4
-LDIwOTA1Njg3OTcsLTEzMTU3ODQzMjQsLTIxMDk2MjI0NDIsLT
-c4NTAxNjc4NCw3MTAzMjEwMzAsOTE1NTk1MzE0LDEyMjk3ODEx
-MTcsLTE0NDg4MjcyNDksLTU2ODg4ODk2NCwtMTg2NjQxNzczMC
-wtNzg4ODcwNjIyLC00MDI4MTE3MzQsMTA4NTk5NTg2MiwxMDM5
-OTE4NTJdfQ==
+eyJoaXN0b3J5IjpbMTQ3MjM4ODA4MSwtODE2NjEwOTg3LC03MD
+UyODU1MDYsMjA5ODU5NTA0NCw4ODEwODMxOCwtMTk2MjI4Mjgz
+OCwyMDkwNTY4Nzk3LC0xMzE1Nzg0MzI0LC0yMTA5NjIyNDQyLC
+03ODUwMTY3ODQsNzEwMzIxMDMwLDkxNTU5NTMxNCwxMjI5Nzgx
+MTE3LC0xNDQ4ODI3MjQ5LC01Njg4ODg5NjQsLTE4NjY0MTc3Mz
+AsLTc4ODg3MDYyMiwtNDAyODExNzM0LDEwODU5OTU4NjIsMTAz
+OTkxODUyXX0=
 -->
