@@ -76,6 +76,9 @@ Bagian header berisi alamat dan data lainnya yang dibawa oleh paket. Struktur da
 ***2. Payload***
 Payload juga disebut sebagai ***body*** dari paket. Pada bagian inilah data yang akan dikirimkan lewat paket berada
 
+***3. Trailer***
+trailer, kadang-kadang disebut ***footer***, biasanya memuat sepasang bit 
+
 ### 2.1 Instalasi
 
 ### 2.2 Filters
@@ -92,11 +95,11 @@ Payload juga disebut sebagai ***body*** dari paket. Pada bagian inilah data yang
 + https://www.wireshark.org/docs/wsug_html_chunked/ChapterIntroduction.html]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwMTIxMjA5Niw3NTY2NjM5ODEsLTgxNj
-YxMDk4NywtNzA1Mjg1NTA2LDIwOTg1OTUwNDQsODgxMDgzMTgs
-LTE5NjIyODI4MzgsMjA5MDU2ODc5NywtMTMxNTc4NDMyNCwtMj
-EwOTYyMjQ0MiwtNzg1MDE2Nzg0LDcxMDMyMTAzMCw5MTU1OTUz
-MTQsMTIyOTc4MTExNywtMTQ0ODgyNzI0OSwtNTY4ODg4OTY0LC
-0xODY2NDE3NzMwLC03ODg4NzA2MjIsLTQwMjgxMTczNCwxMDg1
-OTk1ODYyXX0=
+eyJoaXN0b3J5IjpbLTEyODcxODI1MDksNzU2NjYzOTgxLC04MT
+Y2MTA5ODcsLTcwNTI4NTUwNiwyMDk4NTk1MDQ0LDg4MTA4MzE4
+LC0xOTYyMjgyODM4LDIwOTA1Njg3OTcsLTEzMTU3ODQzMjQsLT
+IxMDk2MjI0NDIsLTc4NTAxNjc4NCw3MTAzMjEwMzAsOTE1NTk1
+MzE0LDEyMjk3ODExMTcsLTE0NDg4MjcyNDksLTU2ODg4ODk2NC
+wtMTg2NjQxNzczMCwtNzg4ODcwNjIyLC00MDI4MTE3MzQsMTA4
+NTk5NTg2Ml19
 -->
