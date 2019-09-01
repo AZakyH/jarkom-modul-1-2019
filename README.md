@@ -32,7 +32,8 @@ Seperti namanya, alat ini digunakan untuk memeriksa apakah kabel yang kita buat 
 ### 1.2 Langkah - Langkah
 1. Siapkan keperluan crimping (kabel UTP, RJ45, tang crimping, LAN tester)
 2. Kupas pelindung kabel UTP
-3. Urutkan kabel sesuai konfigurasi yang diinginkan (Straight
+3. Urutkan kabel sesuai konfigurasi yang diinginkan (Straight/Cross/yang lainnya).
+4. Potong ujung kabel untuk meratakan
 
 ### 2. Wireshark
 Sebuah aplikasi penganalisa paket jaringan. Penganalisa paket jaringan akan mencoba menangkap paket jaringan dan mencoba untuk menampilkan data paket sedetail mungkin. Struktur sebuah paket terdiri dari :
@@ -50,7 +51,7 @@ Sebuah aplikasi penganalisa paket jaringan. Penganalisa paket jaringan akan menc
 + https://www.wireshark.org/docs/wsug_html_chunked/ChapterIntroduction.html]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDk1MzIzODMsMTIyOTc4MTExNywtMT
+eyJoaXN0b3J5IjpbLTEwMjYxNzcwNzksMTIyOTc4MTExNywtMT
 Q0ODgyNzI0OSwtNTY4ODg4OTY0LC0xODY2NDE3NzMwLC03ODg4
 NzA2MjIsLTQwMjgxMTczNCwxMDg1OTk1ODYyLDEwMzk5MTg1Ml
 19
