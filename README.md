@@ -68,8 +68,8 @@ Bagian header berisi alamat dan data lainnya yang dibawa oleh paket. Struktur da
 | --- |--- |
 | Panjang paket | Beberapa jaringan sudah memiliki panjang paket yang baku (*fixed-lenght*), sementara yang lain bergantung pada header untuk memuat informasi ini |
 | Sinkronisasi | Beberapa bit yang membantu paket mencocokkan jaringan yang dimaksud |
-| Nomor paket |  |
-
+| Nomor paket | Menunjukkan urutan dari total paket yang ada |
+| Protokol | Pada jaringan yang membawa lebih dari satu macam informasi, protokol ini menunjukkan jenis paket yang ditransmiskan, apakah termasuk e-mail, halaman web,  |
 ### 2.1 Instalasi
 
 ### 2.2 Filters
@@ -86,7 +86,7 @@ Bagian header berisi alamat dan data lainnya yang dibawa oleh paket. Struktur da
 + https://www.wireshark.org/docs/wsug_html_chunked/ChapterIntroduction.html]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2OTkwNTc4NSwtODE2NjEwOTg3LC03MD
+eyJoaXN0b3J5IjpbLTYxNjk5Mzg5MywtODE2NjEwOTg3LC03MD
 UyODU1MDYsMjA5ODU5NTA0NCw4ODEwODMxOCwtMTk2MjI4Mjgz
 OCwyMDkwNTY4Nzk3LC0xMzE1Nzg0MzI0LC0yMTA5NjIyNDQyLC
 03ODUwMTY3ODQsNzEwMzIxMDMwLDkxNTU5NTMxNCwxMjI5Nzgx
