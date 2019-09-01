@@ -66,7 +66,7 @@ Sebuah jaringan komputer dibangun dengan tujuan mengirimkan atau menerima data a
 Bagian header berisi alamat dan data lainnya yang dibawa oleh paket. Struktur dari header meliputi :
 | Intruksi | Keterangan |
 | --- |--- |
-| Panjang paket |  |
+| Panjang paket | Beberapa jaringan sudah memiliki panjang paket yang baku (*fixed-lenght*), sementara yang lain bergantung pada header untuk mem |
 |
 
 
@@ -86,11 +86,11 @@ Bagian header berisi alamat dan data lainnya yang dibawa oleh paket. Struktur da
 + https://www.wireshark.org/docs/wsug_html_chunked/ChapterIntroduction.html]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5MTQxMTM4MywtODE2NjEwOTg3LC03MD
-UyODU1MDYsMjA5ODU5NTA0NCw4ODEwODMxOCwtMTk2MjI4Mjgz
-OCwyMDkwNTY4Nzk3LC0xMzE1Nzg0MzI0LC0yMTA5NjIyNDQyLC
-03ODUwMTY3ODQsNzEwMzIxMDMwLDkxNTU5NTMxNCwxMjI5Nzgx
-MTE3LC0xNDQ4ODI3MjQ5LC01Njg4ODg5NjQsLTE4NjY0MTc3Mz
-AsLTc4ODg3MDYyMiwtNDAyODExNzM0LDEwODU5OTU4NjIsMTAz
-OTkxODUyXX0=
+eyJoaXN0b3J5IjpbLTE3NzE1MDM4NDQsLTgxNjYxMDk4NywtNz
+A1Mjg1NTA2LDIwOTg1OTUwNDQsODgxMDgzMTgsLTE5NjIyODI4
+MzgsMjA5MDU2ODc5NywtMTMxNTc4NDMyNCwtMjEwOTYyMjQ0Mi
+wtNzg1MDE2Nzg0LDcxMDMyMTAzMCw5MTU1OTUzMTQsMTIyOTc4
+MTExNywtMTQ0ODgyNzI0OSwtNTY4ODg4OTY0LC0xODY2NDE3Nz
+MwLC03ODg4NzA2MjIsLTQwMjgxMTczNCwxMDg1OTk1ODYyLDEw
+Mzk5MTg1Ml19
 -->
