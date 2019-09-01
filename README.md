@@ -122,8 +122,15 @@ Dalam Wireshark terdapat 2 jenis filter yaitu ***Capture Filter*** dan ***Displa
 
 | English | Comparison operator (C-like) | Indonesia |
 |---|---|---|
-|  |||
-
+| equal |||
+| inequality
+| greater than
+| less than |
+| greater than or equal than |
+| less than or equal to |
+| contains |
+| matches |
+| bitwise_and |
 ## Referensi
 + https://nyengnyeng.com/macam-macam-kabel-jaringan-komputer/
 + http://haidirhmc.blogspot.com/2011/12/urutan-warna-kabel-lan-atau-kabel-t568a.html
@@ -132,7 +139,7 @@ Dalam Wireshark terdapat 2 jenis filter yaitu ***Capture Filter*** dan ***Displa
 + https://www.wireshark.org/docs/wsug_html_chunked/ChapterIntroduction.html]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0NTkxODQ1MywtNDM5MzM3NjYsLTE4MD
+eyJoaXN0b3J5IjpbLTUzNjIzODE5MywtNDM5MzM3NjYsLTE4MD
 gyMTM0OTQsLTIwNTIzNjEzMzIsLTEzMDQ1ODc1ODgsLTE0OTg0
 OTg3OTgsNzU2NjYzOTgxLC04MTY2MTA5ODcsLTcwNTI4NTUwNi
 wyMDk4NTk1MDQ0LDg4MTA4MzE4LC0xOTYyMjgyODM4LDIwOTA1
