@@ -34,7 +34,7 @@ Seperti namanya, alat ini digunakan untuk memeriksa apakah kabel yang kita buat 
 2. Kupas pelindung kabel UTP
 3. Urutkan kabel sesuai konfigurasi yang diinginkan (Straight/Cross/yang lainnya).
 4. Potong ujung kabel untuk meratakannya.
-5. Masukkan ujung kabel tersebut ke RJ45 
+5. Masukkan ujung kabel tersebut ke RJ45 dan pasti
 
 ### 2. Wireshark
 Sebuah aplikasi penganalisa paket jaringan. Penganalisa paket jaringan akan mencoba menangkap paket jaringan dan mencoba untuk menampilkan data paket sedetail mungkin. Struktur sebuah paket terdiri dari :
@@ -52,7 +52,7 @@ Sebuah aplikasi penganalisa paket jaringan. Penganalisa paket jaringan akan menc
 + https://www.wireshark.org/docs/wsug_html_chunked/ChapterIntroduction.html]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM4MDE1OTkwLDEyMjk3ODExMTcsLTE0ND
+eyJoaXN0b3J5IjpbOTE1NTk1MzE0LDEyMjk3ODExMTcsLTE0ND
 g4MjcyNDksLTU2ODg4ODk2NCwtMTg2NjQxNzczMCwtNzg4ODcw
 NjIyLC00MDI4MTE3MzQsMTA4NTk5NTg2MiwxMDM5OTE4NTJdfQ
 ==
