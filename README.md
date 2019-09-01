@@ -36,10 +36,12 @@ Sedangkan dari pemasangannya dibagi menjadi
 + __Kabel Straight-Through__
   Jenis pengkabelan ini digunakan untuk menyambungkan dua perangkat yang berbeda. misalnya antara router dengan switch/hub, komputer ke switch dan komputer ke hub.
 
-  Aturan pemasangannya adalah bahwa tiap ujung kabel harus memiliki urutan warna yang sama. Misal ujung yang satu menggunakan urutan T568A maka begitu juga 
+  Aturan pemasangannya adalah bahwa tiap ujung kabel harus memiliki urutan warna yang sama. Misal ujung yang satu menggunakan urutan T568A maka begitu juga ujung lainnya.
 
 + __Kabel Cross Over__
   Berkebalikan dengan kabel Straight-through, pengkabelan ini digunakan untuk menyambungkan dua perangkat yang sama. Misalnya antara komputer dengan komputer, router dengan router, switch dengan switch, hub dengan hub.
+  
+  
 
 ### 1.3 Langkah - Langkah
 1. Siapkan keperluan crimping (kabel UTP, RJ45, tang crimping, LAN tester)
@@ -63,13 +65,14 @@ Sebuah aplikasi penganalisa paket jaringan. Penganalisa paket jaringan akan menc
 ## Referensi
 + https://nyengnyeng.com/macam-macam-kabel-jaringan-komputer/
 + http://haidirhmc.blogspot.com/2011/12/urutan-warna-kabel-lan-atau-kabel-t568a.html
++ https://www.nesabamedia.com/pengertian-dan-fungsi-kabel-utp/
 + https://www.wireshark.org/docs/wsug_html_chunked/ChapterIntroduction.html]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY1MDE0NTI2LDg4MTA4MzE4LC0xOTYyMj
-gyODM4LDIwOTA1Njg3OTcsLTEzMTU3ODQzMjQsLTIxMDk2MjI0
-NDIsLTc4NTAxNjc4NCw3MTAzMjEwMzAsOTE1NTk1MzE0LDEyMj
-k3ODExMTcsLTE0NDg4MjcyNDksLTU2ODg4ODk2NCwtMTg2NjQx
-NzczMCwtNzg4ODcwNjIyLC00MDI4MTE3MzQsMTA4NTk5NTg2Mi
-wxMDM5OTE4NTJdfQ==
+eyJoaXN0b3J5IjpbMTU5ODYxMTYxMyw4ODEwODMxOCwtMTk2Mj
+I4MjgzOCwyMDkwNTY4Nzk3LC0xMzE1Nzg0MzI0LC0yMTA5NjIy
+NDQyLC03ODUwMTY3ODQsNzEwMzIxMDMwLDkxNTU5NTMxNCwxMj
+I5NzgxMTE3LC0xNDQ4ODI3MjQ5LC01Njg4ODg5NjQsLTE4NjY0
+MTc3MzAsLTc4ODg3MDYyMiwtNDAyODExNzM0LDEwODU5OTU4Nj
+IsMTAzOTkxODUyXX0=
 -->
