@@ -59,7 +59,7 @@ Berkebalikan dengan kabel Straight-through, pengkabelan ini digunakan untuk meny
 7. Terakhir, gunakan LAN tester untuk memastikan kabel yang anda buat bekerja dengan baik.
 
 ## 2. Wireshark
-Sebuah aplikasi penganalisa paket jaringan. Penganalisa paket jaringan akan mencoba menangkap paket jaringan dan mencoba untuk menampilkan data paket sedetail mungkin. Struktur sebuah paket terdiri dari :
+Wireshark adalaSebuah aplikasi penganalisa paket jaringan. Penganalisa paket jaringan akan mencoba menangkap paket jaringan dan mencoba untuk menampilkan data paket sedetail mungkin. Struktur sebuah paket terdiri dari :
 ### 2.1 Instalasi
 
 ### 2.2 Filters
@@ -76,10 +76,10 @@ Sebuah aplikasi penganalisa paket jaringan. Penganalisa paket jaringan akan menc
 + https://www.wireshark.org/docs/wsug_html_chunked/ChapterIntroduction.html]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwNTI4NTUwNiwyMDk4NTk1MDQ0LDg4MT
-A4MzE4LC0xOTYyMjgyODM4LDIwOTA1Njg3OTcsLTEzMTU3ODQz
-MjQsLTIxMDk2MjI0NDIsLTc4NTAxNjc4NCw3MTAzMjEwMzAsOT
-E1NTk1MzE0LDEyMjk3ODExMTcsLTE0NDg4MjcyNDksLTU2ODg4
-ODk2NCwtMTg2NjQxNzczMCwtNzg4ODcwNjIyLC00MDI4MTE3Mz
-QsMTA4NTk5NTg2MiwxMDM5OTE4NTJdfQ==
+eyJoaXN0b3J5IjpbLTgxNjYxMDk4NywtNzA1Mjg1NTA2LDIwOT
+g1OTUwNDQsODgxMDgzMTgsLTE5NjIyODI4MzgsMjA5MDU2ODc5
+NywtMTMxNTc4NDMyNCwtMjEwOTYyMjQ0MiwtNzg1MDE2Nzg0LD
+cxMDMyMTAzMCw5MTU1OTUzMTQsMTIyOTc4MTExNywtMTQ0ODgy
+NzI0OSwtNTY4ODg4OTY0LC0xODY2NDE3NzMwLC03ODg4NzA2Mj
+IsLTQwMjgxMTczNCwxMDg1OTk1ODYyLDEwMzk5MTg1Ml19
 -->
