@@ -36,7 +36,7 @@ Seperti namanya, alat ini digunakan untuk memeriksa apakah kabel yang kita buat 
 4. Potong ujung kabel untuk meratakannya.
 5. Masukkan ujung kabel tersebut ke RJ45 dan pastikan menyentuh ujung RJ45.
 6. Gunakan tang crimping untuk mengunci kabel UTP dalam RJ45 (pastikan ujung kabel masih menempel dengan ujung RJ45 saat penguncian dilakukan)
-7. Last but not 
+7. Terakhir, gunakan LAN tester untuk memastikan kabel yang anda buat bekerja dengan baik.
 
 ### 2. Wireshark
 Sebuah aplikasi penganalisa paket jaringan. Penganalisa paket jaringan akan mencoba menangkap paket jaringan dan mencoba untuk menampilkan data paket sedetail mungkin. Struktur sebuah paket terdiri dari :
@@ -54,7 +54,7 @@ Sebuah aplikasi penganalisa paket jaringan. Penganalisa paket jaringan akan menc
 + https://www.wireshark.org/docs/wsug_html_chunked/ChapterIntroduction.html]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5NjA5MTExMCw3MTAzMjEwMzAsOTE1NT
+eyJoaXN0b3J5IjpbLTc4NTAxNjc4NCw3MTAzMjEwMzAsOTE1NT
 k1MzE0LDEyMjk3ODExMTcsLTE0NDg4MjcyNDksLTU2ODg4ODk2
 NCwtMTg2NjQxNzczMCwtNzg4ODcwNjIyLC00MDI4MTE3MzQsMT
 A4NTk5NTg2MiwxMDM5OTE4NTJdfQ==
