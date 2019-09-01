@@ -81,7 +81,8 @@ trailer, kadang-kadang disebut ***footer***, biasanya memuat sepasang bit yang m
 
 ### 2.1 Instalasi
 Instalasi untuk OS WIndows atau macOS bisa mengunduh installer pada [ laman ini](https://www.wireshark.org/download.html). Untuk OS linux dapat melihat tutorialnya [di sini]([https://linuxtechlab.com/install-wireshark-linux-centosubuntu/](https://linuxtechlab.com/install-wireshark-linux-centosubuntu/)).
-Setelah melakukan instalasi , jalankan tutorialnya 
+Setelah melakukan instalasi , jalankan Wireshark sebagai **administrator** (WIndows) atau **root** (linux)
+Berikut tampilan awalnya :
 ### 2.2 Filters
 
 #### 2.2.1 Capture Filter
@@ -96,11 +97,11 @@ Setelah melakukan instalasi , jalankan tutorialnya
 + https://www.wireshark.org/docs/wsug_html_chunked/ChapterIntroduction.html]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTIzNjEzMzIsLTEzMDQ1ODc1ODgsLT
-E0OTg0OTg3OTgsNzU2NjYzOTgxLC04MTY2MTA5ODcsLTcwNTI4
-NTUwNiwyMDk4NTk1MDQ0LDg4MTA4MzE4LC0xOTYyMjgyODM4LD
-IwOTA1Njg3OTcsLTEzMTU3ODQzMjQsLTIxMDk2MjI0NDIsLTc4
-NTAxNjc4NCw3MTAzMjEwMzAsOTE1NTk1MzE0LDEyMjk3ODExMT
-csLTE0NDg4MjcyNDksLTU2ODg4ODk2NCwtMTg2NjQxNzczMCwt
-Nzg4ODcwNjIyXX0=
+eyJoaXN0b3J5IjpbLTUzMTgxODk2LC0yMDUyMzYxMzMyLC0xMz
+A0NTg3NTg4LC0xNDk4NDk4Nzk4LDc1NjY2Mzk4MSwtODE2NjEw
+OTg3LC03MDUyODU1MDYsMjA5ODU5NTA0NCw4ODEwODMxOCwtMT
+k2MjI4MjgzOCwyMDkwNTY4Nzk3LC0xMzE1Nzg0MzI0LC0yMTA5
+NjIyNDQyLC03ODUwMTY3ODQsNzEwMzIxMDMwLDkxNTU5NTMxNC
+wxMjI5NzgxMTE3LC0xNDQ4ODI3MjQ5LC01Njg4ODg5NjQsLTE4
+NjY0MTc3MzBdfQ==
 -->
