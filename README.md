@@ -5,7 +5,7 @@
      + 1.1 [Peralatan yang dibutuhkan](#peralatan-yang-dibutuhkan)
      + 1.2 [Jenis-jenis Konfigurasi Kabel UTP]()
      + 1.3 Langkah-langkah
-+ 2. [Wireshark] ()
++ 2. [Wireshark] (#wireshark)
 
 
 ## 1. Wire Crimping
@@ -26,7 +26,7 @@ Tang ini digunakan untuk memasangkan kabel pada RJ45.
 #### d. LAN Tester
 Seperti namanya, alat ini digunakan untuk memeriksa apakah kabel yang kita buat berfungsi dengan baik atau tidak.
 
-## 2. Wireshark
+### 2. Wireshark
 Sebuah aplikasi penganalisa paket jaringan. Penganalisa paket jaringan akan mencoba menangkap paket jaringan dan mencoba untuk menampilkan data paket sedetail mungkin. Struktur sebuah paket terdiri dari :
 ### 2.1 Instalasi
 
@@ -34,7 +34,7 @@ Sebuah aplikasi penganalisa paket jaringan. Penganalisa paket jaringan akan menc
 
 #### 2.2.1 Capture Filter
 
-#### 2.2.2 Display Filter
+#### 2.2.2 Display Filter1.2 Langkah - 
 
 ## Referensi
 + https://nyengnyeng.com/macam-macam-kabel-jaringan-komputer/
@@ -42,5 +42,6 @@ Sebuah aplikasi penganalisa paket jaringan. Penganalisa paket jaringan akan menc
 + https://www.wireshark.org/docs/wsug_html_chunked/ChapterIntroduction.html]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4NTk5NTg2MiwxMDM5OTE4NTJdfQ==
+eyJoaXN0b3J5IjpbMTI3NzczNjI3MCwxMDg1OTk1ODYyLDEwMz
+k5MTg1Ml19
 -->
