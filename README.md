@@ -37,7 +37,7 @@ Ada beberapa macam konfigurasi kabel. Dari urutan warnanya yang sesuai standar i
 ![UrutanT586B]()
 Sedangkan dari pemasangannya dibagi menjadi
 + Kabel Straight-Through
-+ Kabel Cross
++ Kabel Cross Over
 + 
 
 ### 1.3 Langkah - Langkah
@@ -62,12 +62,13 @@ Sebuah aplikasi penganalisa paket jaringan. Penganalisa paket jaringan akan menc
 ## Referensi
 + https://nyengnyeng.com/macam-macam-kabel-jaringan-komputer/
 + http://haidirhmc.blogspot.com/2011/12/urutan-warna-kabel-lan-atau-kabel-t568a.html
++ https://www.nesabamedia.com/pengertian-dan-fungsi-kabel-utp/
 + https://www.wireshark.org/docs/wsug_html_chunked/ChapterIntroduction.html]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMTgzNTg3MiwyMDkwNTY4Nzk3LC0xMz
-E1Nzg0MzI0LC0yMTA5NjIyNDQyLC03ODUwMTY3ODQsNzEwMzIx
-MDMwLDkxNTU5NTMxNCwxMjI5NzgxMTE3LC0xNDQ4ODI3MjQ5LC
-01Njg4ODg5NjQsLTE4NjY0MTc3MzAsLTc4ODg3MDYyMiwtNDAy
-ODExNzM0LDEwODU5OTU4NjIsMTAzOTkxODUyXX0=
+eyJoaXN0b3J5IjpbLTE5NjIyODI4MzgsMjA5MDU2ODc5NywtMT
+MxNTc4NDMyNCwtMjEwOTYyMjQ0MiwtNzg1MDE2Nzg0LDcxMDMy
+MTAzMCw5MTU1OTUzMTQsMTIyOTc4MTExNywtMTQ0ODgyNzI0OS
+wtNTY4ODg4OTY0LC0xODY2NDE3NzMwLC03ODg4NzA2MjIsLTQw
+MjgxMTczNCwxMDg1OTk1ODYyLDEwMzk5MTg1Ml19
 -->
