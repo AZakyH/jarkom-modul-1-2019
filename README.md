@@ -35,7 +35,7 @@ Ada beberapa macam konfigurasi kabel. Dari urutan warnanya yang sesuai standar i
 Sedangkan dari pemasangannya dibagi menjadi
 + __Kabel Straight-Through__
   Jenis pengkabelan ini digunakan untuk menyambungkan dua perangkat yang berbeda. misalnya antara router dengan switch/hub, komputer ke switch dan komputer ke hub.
-  ![]()
+  ![Kabel Straigh-Through]()
   Aturan pemasangannya adalah bahwa tiap ujung kabel harus memiliki urutan warna yang sama. Misal ujung yang satu menggunakan susunan warna berdasarkan aturan T568A maka begitu juga ujung lainnya.
 
 + __Kabel Cross Over__
@@ -69,7 +69,7 @@ Sebuah aplikasi penganalisa paket jaringan. Penganalisa paket jaringan akan menc
 + https://www.wireshark.org/docs/wsug_html_chunked/ChapterIntroduction.html]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1NDM2MDg2MCw4ODEwODMxOCwtMTk2Mj
+eyJoaXN0b3J5IjpbLTc0NDk1MDU2OSw4ODEwODMxOCwtMTk2Mj
 I4MjgzOCwyMDkwNTY4Nzk3LC0xMzE1Nzg0MzI0LC0yMTA5NjIy
 NDQyLC03ODUwMTY3ODQsNzEwMzIxMDMwLDkxNTU5NTMxNCwxMj
 I5NzgxMTE3LC0xNDQ4ODI3MjQ5LC01Njg4ODg5NjQsLTE4NjY0
