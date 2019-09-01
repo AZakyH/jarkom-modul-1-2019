@@ -108,8 +108,8 @@ Dalam Wireshark terdapat 2 jenis filter yaitu ***Capture Filter*** dan ***Displa
 | `host 10.151.36.1` | Menangkap semua paket yang spesifik menuju ke atau berasal dari alamat 10.151.36.1 |
 | `src host 10.151.36.1` | Menangkap semua paket spesifik menuju ke atau berasal dari alamat 10.151.36.1 |
 | `net 192.168.0.0/24` atatu `net 192.168.0.0 mask 255.255.255.0` | Menangkap semua paket yang berasal dari atau menuju ke subnet 192.168.0.0/24 |
-| dst net  |  |
-
+| `dst net 192.168.0.0/24` | Menangkap semua paket yang menuju ke subnet 192.168.0.0/24 |
+| `udp port 80` | Menangkap semua paket dengan protokol UDP yang menuju ke atau beras |
 #### 2.2.2 Display Filter1.2 Langkah - 
 
 ## Referensi
@@ -120,7 +120,7 @@ Dalam Wireshark terdapat 2 jenis filter yaitu ***Capture Filter*** dan ***Displa
 + https://www.wireshark.org/docs/wsug_html_chunked/ChapterIntroduction.html]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyNzMyMjczMCwtNDM5MzM3NjYsLTE4MD
+eyJoaXN0b3J5IjpbMTMxNjAyMjUwMywtNDM5MzM3NjYsLTE4MD
 gyMTM0OTQsLTIwNTIzNjEzMzIsLTEzMDQ1ODc1ODgsLTE0OTg0
 OTg3OTgsNzU2NjYzOTgxLC04MTY2MTA5ODcsLTcwNTI4NTUwNi
 wyMDk4NTk1MDQ0LDg4MTA4MzE4LC0xOTYyMjgyODM4LDIwOTA1
