@@ -129,8 +129,11 @@ Dalam Wireshark terdapat 2 jenis filter yaitu ***Capture Filter*** dan ***Displa
 | greater than or equal than | >= | Lebih besar dari atau sama dengan |
 | less than or equal to | <= | Lebih kecil dari atau sama dengan |
 | contains |  | Protokol atau field mengandung nilai tertentu |
-| matches | ~ | Protokol atau field cocok dengan regular expression* |
-| bitwise_and |
+| matches | ~ | Protokol atau field cocok dengan *regular expression* |
+| bitwise_and | & | Membandingkan nilai bit sebuah field |
+
+ - List item
+
 ## Referensi
 + https://nyengnyeng.com/macam-macam-kabel-jaringan-komputer/
 + http://haidirhmc.blogspot.com/2011/12/urutan-warna-kabel-lan-atau-kabel-t568a.html
@@ -139,7 +142,7 @@ Dalam Wireshark terdapat 2 jenis filter yaitu ***Capture Filter*** dan ***Displa
 + https://www.wireshark.org/docs/wsug_html_chunked/ChapterIntroduction.html]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyMjk3OTg0NiwtNDM5MzM3NjYsLTE4MD
+eyJoaXN0b3J5IjpbMTYxNzEyOTM1MiwtNDM5MzM3NjYsLTE4MD
 gyMTM0OTQsLTIwNTIzNjEzMzIsLTEzMDQ1ODc1ODgsLTE0OTg0
 OTg3OTgsNzU2NjYzOTgxLC04MTY2MTA5ODcsLTcwNTI4NTUwNi
 wyMDk4NTk1MDQ0LDg4MTA4MzE4LC0xOTYyMjgyODM4LDIwOTA1
