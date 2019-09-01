@@ -30,7 +30,9 @@ Tang ini digunakan untuk memasangkan kabel pada RJ45.
 
 Seperti namanya, alat ini digunakan untuk memeriksa apakah kabel yang kita buat berfungsi dengan baik atau tidak.
 ### 1.2 Konfigurasi Kabel
-Ada beberapa macam konfigurasi kabel. Untuk kali ini kita akan menggunakan konfigurasi urutan warna T568A dan T568B.
+Ada beberapa macam konfigurasi kabel. Dari urutan warnanya dapat dibagi menjadi:
+#### 1.2.1 T568A
+#### 1.2.1 T568B
 
 ### 1.3 Langkah - Langkah
 1. Siapkan keperluan crimping (kabel UTP, RJ45, tang crimping, LAN tester)
@@ -57,9 +59,9 @@ Sebuah aplikasi penganalisa paket jaringan. Penganalisa paket jaringan akan menc
 + https://www.wireshark.org/docs/wsug_html_chunked/ChapterIntroduction.html]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjI4ODA1MDQsLTEzMTU3ODQzMjQsLT
-IxMDk2MjI0NDIsLTc4NTAxNjc4NCw3MTAzMjEwMzAsOTE1NTk1
-MzE0LDEyMjk3ODExMTcsLTE0NDg4MjcyNDksLTU2ODg4ODk2NC
-wtMTg2NjQxNzczMCwtNzg4ODcwNjIyLC00MDI4MTE3MzQsMTA4
-NTk5NTg2MiwxMDM5OTE4NTJdfQ==
+eyJoaXN0b3J5IjpbMjA5MDU2ODc5NywtMTMxNTc4NDMyNCwtMj
+EwOTYyMjQ0MiwtNzg1MDE2Nzg0LDcxMDMyMTAzMCw5MTU1OTUz
+MTQsMTIyOTc4MTExNywtMTQ0ODgyNzI0OSwtNTY4ODg4OTY0LC
+0xODY2NDE3NzMwLC03ODg4NzA2MjIsLTQwMjgxMTczNCwxMDg1
+OTk1ODYyLDEwMzk5MTg1Ml19
 -->
