@@ -37,8 +37,9 @@ Ada beberapa macam konfigurasi kabel. Dari urutan warnanya yang sesuai standar i
 ![UrutanT586B]()
 Sedangkan dari pemasangannya dibagi menjadi
 + Kabel Straight-Through
+Jenis pengkabelan ini digunakan untuk menyambungkan dua perangkat yang berbeda. 
 + Kabel Cross Over
-+ 
+
 
 ### 1.3 Langkah - Langkah
 1. Siapkan keperluan crimping (kabel UTP, RJ45, tang crimping, LAN tester)
@@ -62,13 +63,13 @@ Sebuah aplikasi penganalisa paket jaringan. Penganalisa paket jaringan akan menc
 ## Referensi
 + https://nyengnyeng.com/macam-macam-kabel-jaringan-komputer/
 + http://haidirhmc.blogspot.com/2011/12/urutan-warna-kabel-lan-atau-kabel-t568a.html
-+ https://www.nesabamedia.com/pengertian-dan-fungsi-kabel-utp/
 + https://www.wireshark.org/docs/wsug_html_chunked/ChapterIntroduction.html]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjIyODI4MzgsMjA5MDU2ODc5NywtMT
-MxNTc4NDMyNCwtMjEwOTYyMjQ0MiwtNzg1MDE2Nzg0LDcxMDMy
-MTAzMCw5MTU1OTUzMTQsMTIyOTc4MTExNywtMTQ0ODgyNzI0OS
-wtNTY4ODg4OTY0LC0xODY2NDE3NzMwLC03ODg4NzA2MjIsLTQw
-MjgxMTczNCwxMDg1OTk1ODYyLDEwMzk5MTg1Ml19
+eyJoaXN0b3J5IjpbMTM4MDI4NTIwMywtMTk2MjI4MjgzOCwyMD
+kwNTY4Nzk3LC0xMzE1Nzg0MzI0LC0yMTA5NjIyNDQyLC03ODUw
+MTY3ODQsNzEwMzIxMDMwLDkxNTU5NTMxNCwxMjI5NzgxMTE3LC
+0xNDQ4ODI3MjQ5LC01Njg4ODg5NjQsLTE4NjY0MTc3MzAsLTc4
+ODg3MDYyMiwtNDAyODExNzM0LDEwODU5OTU4NjIsMTAzOTkxOD
+UyXX0=
 -->
