@@ -123,12 +123,12 @@ Dalam Wireshark terdapat 2 jenis filter yaitu ***Capture Filter*** dan ***Displa
 | English | Comparison operator (C-like) | Indonesia |
 |---|---|---|
 | equal | == | Sama dengan |
-| inequality || Tidak sama dengan |
-| greater than || Lebih besar dari |
-| less than || Lebih kecil dari |
-| greater than or equal than |
-| less than or equal to |
-| contains |
+| inequality | != | Tidak sama dengan |
+| greater than | > | Lebih besar dari |
+| less than | < | Lebih kecil dari |
+| greater than or equal than | >= | Lebih besar dari atau sama dengan |
+| less than or equal to | <= | Lebih kecil dari atau sama dengan |
+| contains |  | Protokol atau field mengandung |
 | matches |
 | bitwise_and |
 ## Referensi
@@ -139,11 +139,11 @@ Dalam Wireshark terdapat 2 jenis filter yaitu ***Capture Filter*** dan ***Displa
 + https://www.wireshark.org/docs/wsug_html_chunked/ChapterIntroduction.html]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjMyNzYyMzUsLTQzOTMzNzY2LC0xOD
-A4MjEzNDk0LC0yMDUyMzYxMzMyLC0xMzA0NTg3NTg4LC0xNDk4
-NDk4Nzk4LDc1NjY2Mzk4MSwtODE2NjEwOTg3LC03MDUyODU1MD
-YsMjA5ODU5NTA0NCw4ODEwODMxOCwtMTk2MjI4MjgzOCwyMDkw
-NTY4Nzk3LC0xMzE1Nzg0MzI0LC0yMTA5NjIyNDQyLC03ODUwMT
-Y3ODQsNzEwMzIxMDMwLDkxNTU5NTMxNCwxMjI5NzgxMTE3LC0x
-NDQ4ODI3MjQ5XX0=
+eyJoaXN0b3J5IjpbMTEzMTAyNzc2OSwtNDM5MzM3NjYsLTE4MD
+gyMTM0OTQsLTIwNTIzNjEzMzIsLTEzMDQ1ODc1ODgsLTE0OTg0
+OTg3OTgsNzU2NjYzOTgxLC04MTY2MTA5ODcsLTcwNTI4NTUwNi
+wyMDk4NTk1MDQ0LDg4MTA4MzE4LC0xOTYyMjgyODM4LDIwOTA1
+Njg3OTcsLTEzMTU3ODQzMjQsLTIxMDk2MjI0NDIsLTc4NTAxNj
+c4NCw3MTAzMjEwMzAsOTE1NTk1MzE0LDEyMjk3ODExMTcsLTE0
+NDg4MjcyNDldfQ==
 -->
