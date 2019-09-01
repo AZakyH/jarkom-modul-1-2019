@@ -94,10 +94,11 @@ Dalam Wireshark terdapat 2 jenis filter yaitu ***Capture Filter*** dan ***Displa
  - Sintaks filter dapat terdiri dari 1 atau lebih **primitive**. primitive sendiri biasanya terdiri dari sebuah **id** (bilangan atau nama) yang didahului oleh 1 atau lebih jenis qualifier. Perlu diingat bahwa dalam 1 primitive tidak boleh ada 2 atau lebih qualifier sejenis
  - Jenis qualifier :
 
-  | Qualifier | Keterangan | Contoh |
-  |--|--|--|
-  | type | Menen |  |
-
+| Qualifier | Keterangan | Contoh |
+|--|--|--|
+| type | Menentukan jenis id atau nama yang menjadi nilai filter | host, net, port, portrange |
+| dir | Menentukan direction atau arah dari id | src, dst, dan lain-lain |
+| proto | Menen ||
 #### 2.2.2 Display Filter1.2 Langkah - 
 
 ## Referensi
@@ -108,7 +109,7 @@ Dalam Wireshark terdapat 2 jenis filter yaitu ***Capture Filter*** dan ***Displa
 + https://www.wireshark.org/docs/wsug_html_chunked/ChapterIntroduction.html]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjQ5Mjk1MzgsLTQzOTMzNzY2LC0xOD
+eyJoaXN0b3J5IjpbLTEzMTE1OTgwMzMsLTQzOTMzNzY2LC0xOD
 A4MjEzNDk0LC0yMDUyMzYxMzMyLC0xMzA0NTg3NTg4LC0xNDk4
 NDk4Nzk4LDc1NjY2Mzk4MSwtODE2NjEwOTg3LC03MDUyODU1MD
 YsMjA5ODU5NTA0NCw4ODEwODMxOCwtMTk2MjI4MjgzOCwyMDkw
