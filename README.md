@@ -37,7 +37,7 @@ Sedangkan dari pemasangannya dibagi menjadi
 Jenis pengkabelan ini digunakan untuk menyambungkan dua perangkat yang berbeda. misalnya antara router dengan switch/hub, komputer ke switch dan komputer ke hub.
 
 + __Kabel Cross Over__
-
+Berbeda dengan kabel Straight-through, pengkabelan ini digunakan untuk menyambungkan dua perangkat yang berbeda. misalnya antara router dengan switch/hub, komputer ke switch dan komputer ke hub.
 
 ### 1.3 Langkah - Langkah
 1. Siapkan keperluan crimping (kabel UTP, RJ45, tang crimping, LAN tester)
@@ -64,10 +64,10 @@ Sebuah aplikasi penganalisa paket jaringan. Penganalisa paket jaringan akan menc
 + https://www.wireshark.org/docs/wsug_html_chunked/ChapterIntroduction.html]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwODAxMzg0LDg4MTA4MzE4LC0xOTYyMj
-gyODM4LDIwOTA1Njg3OTcsLTEzMTU3ODQzMjQsLTIxMDk2MjI0
-NDIsLTc4NTAxNjc4NCw3MTAzMjEwMzAsOTE1NTk1MzE0LDEyMj
-k3ODExMTcsLTE0NDg4MjcyNDksLTU2ODg4ODk2NCwtMTg2NjQx
-NzczMCwtNzg4ODcwNjIyLC00MDI4MTE3MzQsMTA4NTk5NTg2Mi
-wxMDM5OTE4NTJdfQ==
+eyJoaXN0b3J5IjpbLTE3OTc0MTY5MSw4ODEwODMxOCwtMTk2Mj
+I4MjgzOCwyMDkwNTY4Nzk3LC0xMzE1Nzg0MzI0LC0yMTA5NjIy
+NDQyLC03ODUwMTY3ODQsNzEwMzIxMDMwLDkxNTU5NTMxNCwxMj
+I5NzgxMTE3LC0xNDQ4ODI3MjQ5LC01Njg4ODg5NjQsLTE4NjY0
+MTc3MzAsLTc4ODg3MDYyMiwtNDAyODExNzM0LDEwODU5OTU4Nj
+IsMTAzOTkxODUyXX0=
 -->
