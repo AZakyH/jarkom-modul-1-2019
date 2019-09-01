@@ -32,6 +32,10 @@ Seperti namanya, alat ini digunakan untuk memeriksa apakah kabel yang kita buat 
 
 ### 2.2 Filters
 
+#### 2.2.1 Capture Filter
+
+#### 2.2.2 Display Filter
+
 ## Referensi
 + https://nyengnyeng.com/macam-macam-kabel-jaringan-komputer/
 + http://mediatech.co.id/mediatech-catalog/networking/item/root/rj-45.html
