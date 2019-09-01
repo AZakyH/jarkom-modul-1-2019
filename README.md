@@ -32,15 +32,18 @@ Seperti namanya, alat ini digunakan untuk memeriksa apakah kabel yang kita buat 
 ### 1.2 Konfigurasi Kabel
 Ada beberapa macam konfigurasi kabel. Dari urutan warnanya yang sesuai standar internasional dapat dibagi menjadi __T568A__ dan __T568B__.
 ![Perbedaan urutan warna T568A dan T568B](urutan_warna.png)
+
 Sedangkan dari pemasangannya dibagi menjadi
 + __Kabel Straight-Through__
   Jenis pengkabelan ini digunakan untuk menyambungkan dua perangkat yang berbeda. misalnya antara router dengan switch/hub, komputer ke switch dan komputer ke hub.
-  ![Kabel Straigh-Through]()
+![Kabel Straigh-Through](images/straight_through.png)
+  
   Aturan pemasangannya adalah bahwa tiap ujung kabel harus memiliki urutan warna yang sama. Misal ujung yang satu menggunakan susunan warna berdasarkan aturan T568A maka begitu juga ujung lainnya.
 
 + __Kabel Cross Over__
   Berkebalikan dengan kabel Straight-through, pengkabelan ini digunakan untuk menyambungkan dua perangkat yang sama. Misalnya antara komputer dengan komputer, router dengan router, switch dengan switch, hub dengan hub.
-  ![Kabel Cross Over]()
+  ![Kabel Cross Over](images/crossover.png)
+  
   Aturan pemasangannya pun berbeda dengan kabel jenis straigh-trough, kabel jenis Crossover memiliki urutan warna yang berbeda dikedua ujungnya. Tapi, perbedaan warna ini tidak boleh sembarangan, karena kedua ujung ini juga memiliki aturan urutan warna. Pada kabel jenis Crossover standar, jika salah satu ujung Pin memiliki susunan warna berdasarkan aturan T568A, maka ujung Pin yang lain harus memiliki urutan warna berdasarkan standar T568B.
 
 ### 1.3 Langkah - Langkah
@@ -69,10 +72,10 @@ Sebuah aplikasi penganalisa paket jaringan. Penganalisa paket jaringan akan menc
 + https://www.wireshark.org/docs/wsug_html_chunked/ChapterIntroduction.html]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0NDk1MDU2OSw4ODEwODMxOCwtMTk2Mj
-I4MjgzOCwyMDkwNTY4Nzk3LC0xMzE1Nzg0MzI0LC0yMTA5NjIy
-NDQyLC03ODUwMTY3ODQsNzEwMzIxMDMwLDkxNTU5NTMxNCwxMj
-I5NzgxMTE3LC0xNDQ4ODI3MjQ5LC01Njg4ODg5NjQsLTE4NjY0
-MTc3MzAsLTc4ODg3MDYyMiwtNDAyODExNzM0LDEwODU5OTU4Nj
-IsMTAzOTkxODUyXX0=
+eyJoaXN0b3J5IjpbLTE1ODQ0NzU5ODksODgxMDgzMTgsLTE5Nj
+IyODI4MzgsMjA5MDU2ODc5NywtMTMxNTc4NDMyNCwtMjEwOTYy
+MjQ0MiwtNzg1MDE2Nzg0LDcxMDMyMTAzMCw5MTU1OTUzMTQsMT
+IyOTc4MTExNywtMTQ0ODgyNzI0OSwtNTY4ODg4OTY0LC0xODY2
+NDE3NzMwLC03ODg4NzA2MjIsLTQwMjgxMTczNCwxMDg1OTk1OD
+YyLDEwMzk5MTg1Ml19
 -->
