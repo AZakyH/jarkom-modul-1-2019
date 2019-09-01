@@ -80,7 +80,7 @@ Payload juga disebut sebagai ***body*** dari paket. Pada bagian inilah data yang
 trailer, kadang-kadang disebut ***footer***, biasanya memuat sepasang bit yang memberi sinyal pada perangkat penerima bahwa paket sudah mencapai ujungnya. trailer juga bisa memuat semacam *error checking*.
 
 ### 2.1 Instalasi
-Instalasi untuk OS WIndows atau macOS bisa mengunduh installer pada laman ini [enter link descriptioe](https://www.wireshark.org/download.html)
+Instalasi untuk OS WIndows atau macOS bisa mengunduh installer pada [ laman ini](https://www.wireshark.org/download.html)
 ### 2.2 Filters
 
 #### 2.2.1 Capture Filter
@@ -95,11 +95,11 @@ Instalasi untuk OS WIndows atau macOS bisa mengunduh installer pada laman ini [e
 + https://www.wireshark.org/docs/wsug_html_chunked/ChapterIntroduction.html]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2MDU0NTQ4OSwtMTQ5ODQ5ODc5OCw3NT
-Y2NjM5ODEsLTgxNjYxMDk4NywtNzA1Mjg1NTA2LDIwOTg1OTUw
-NDQsODgxMDgzMTgsLTE5NjIyODI4MzgsMjA5MDU2ODc5NywtMT
-MxNTc4NDMyNCwtMjEwOTYyMjQ0MiwtNzg1MDE2Nzg0LDcxMDMy
-MTAzMCw5MTU1OTUzMTQsMTIyOTc4MTExNywtMTQ0ODgyNzI0OS
-wtNTY4ODg4OTY0LC0xODY2NDE3NzMwLC03ODg4NzA2MjIsLTQw
-MjgxMTczNF19
+eyJoaXN0b3J5IjpbLTEzMDQ1ODc1ODgsLTE0OTg0OTg3OTgsNz
+U2NjYzOTgxLC04MTY2MTA5ODcsLTcwNTI4NTUwNiwyMDk4NTk1
+MDQ0LDg4MTA4MzE4LC0xOTYyMjgyODM4LDIwOTA1Njg3OTcsLT
+EzMTU3ODQzMjQsLTIxMDk2MjI0NDIsLTc4NTAxNjc4NCw3MTAz
+MjEwMzAsOTE1NTk1MzE0LDEyMjk3ODExMTcsLTE0NDg4MjcyND
+ksLTU2ODg4ODk2NCwtMTg2NjQxNzczMCwtNzg4ODcwNjIyLC00
+MDI4MTE3MzRdfQ==
 -->
