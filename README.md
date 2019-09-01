@@ -120,7 +120,7 @@ Dalam Wireshark terdapat 2 jenis filter yaitu ***Capture Filter*** dan ***Displa
  - Definisi : Memilah paket yang akan ditampilkan dari kumpulan paket yang sudah ditangkap
  - Secara umum sintaks display filter terdiri dari `[protokol] [field] [comparison operator] [value]`. Berikut ini daftar ***comparison operator*** yang tersedia : 
 
-| English | Comparison operator (C-like) | Indonesia |
+| English | Comparison Operator (C-like) | Indonesia |
 |---|---|---|
 | equal | == | Sama dengan |
 | inequality | != | Tidak sama dengan |
@@ -134,9 +134,9 @@ Dalam Wireshark terdapat 2 jenis filter yaitu ***Capture Filter*** dan ***Displa
 
  - Pada display filter bisa menggabungkan 2 filter expression dengan ***logical operator***
 
-|  |  |
+| Logical Operator | Keterangan |
 |---|---|
-|||
+| `and` atau `&&` | logival |
 
 ## Referensi
 + https://nyengnyeng.com/macam-macam-kabel-jaringan-komputer/
@@ -146,11 +146,11 @@ Dalam Wireshark terdapat 2 jenis filter yaitu ***Capture Filter*** dan ***Displa
 + https://www.wireshark.org/docs/wsug_html_chunked/ChapterIntroduction.html]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODExMDI1OTEsLTQzOTMzNzY2LC0xOD
-A4MjEzNDk0LC0yMDUyMzYxMzMyLC0xMzA0NTg3NTg4LC0xNDk4
-NDk4Nzk4LDc1NjY2Mzk4MSwtODE2NjEwOTg3LC03MDUyODU1MD
-YsMjA5ODU5NTA0NCw4ODEwODMxOCwtMTk2MjI4MjgzOCwyMDkw
-NTY4Nzk3LC0xMzE1Nzg0MzI0LC0yMTA5NjIyNDQyLC03ODUwMT
-Y3ODQsNzEwMzIxMDMwLDkxNTU5NTMxNCwxMjI5NzgxMTE3LC0x
-NDQ4ODI3MjQ5XX0=
+eyJoaXN0b3J5IjpbLTg5NTg0MzE2MiwtNDM5MzM3NjYsLTE4MD
+gyMTM0OTQsLTIwNTIzNjEzMzIsLTEzMDQ1ODc1ODgsLTE0OTg0
+OTg3OTgsNzU2NjYzOTgxLC04MTY2MTA5ODcsLTcwNTI4NTUwNi
+wyMDk4NTk1MDQ0LDg4MTA4MzE4LC0xOTYyMjgyODM4LDIwOTA1
+Njg3OTcsLTEzMTU3ODQzMjQsLTIxMDk2MjI0NDIsLTc4NTAxNj
+c4NCw3MTAzMjEwMzAsOTE1NTk1MzE0LDEyMjk3ODExMTcsLTE0
+NDg4MjcyNDldfQ==
 -->
