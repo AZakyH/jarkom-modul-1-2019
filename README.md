@@ -72,7 +72,10 @@ Bagian header berisi alamat dan data lainnya yang dibawa oleh paket. Struktur da
 | Protokol | Pada jaringan yang membawa lebih dari satu macam informasi, protokol ini menunjukkan jenis paket yang ditransmiskan: e-mail, halaman web, atau yang lain |
 | Alamat tujuan | Ke mana paket dikirimkan |
 | Alamat asal | Dari mana paket dikirimkan |
-2. 
+
+***2. Payload***
+Payload juga disebut sebagai ***body*** dari paket. Pada bagian inilah data yang akan dikirimkan lewat paket berada
+
 ### 2.1 Instalasi
 
 ### 2.2 Filters
@@ -89,7 +92,7 @@ Bagian header berisi alamat dan data lainnya yang dibawa oleh paket. Struktur da
 + https://www.wireshark.org/docs/wsug_html_chunked/ChapterIntroduction.html]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzNjE4MDI5Myw3NTY2NjM5ODEsLTgxNj
+eyJoaXN0b3J5IjpbMTQwMTIxMjA5Niw3NTY2NjM5ODEsLTgxNj
 YxMDk4NywtNzA1Mjg1NTA2LDIwOTg1OTUwNDQsODgxMDgzMTgs
 LTE5NjIyODI4MzgsMjA5MDU2ODc5NywtMTMxNTc4NDMyNCwtMj
 EwOTYyMjQ0MiwtNzg1MDE2Nzg0LDcxMDMyMTAzMCw5MTU1OTUz
