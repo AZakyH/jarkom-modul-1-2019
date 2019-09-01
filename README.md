@@ -30,12 +30,9 @@ Tang ini digunakan untuk memasangkan kabel pada RJ45.
 
 Seperti namanya, alat ini digunakan untuk memeriksa apakah kabel yang kita buat berfungsi dengan baik atau tidak.
 ### 1.2 Konfigurasi Kabel
-Ada beberapa macam konfigurasi kabel. Dari urutan warnanya yang sesuai standar internasional dapat dibagi menjadi:
-+ 1.2.1 T568A
+Ada beberapa macam konfigurasi kabel. Dari urutan warnanya yang sesuai standar internasional dapat dibagi menjadi __T568A__
 ![UrutanT586A]()
-+  1.2.1 T568B
-![UrutanT586B]()
-Sedangkan dari pemasangannya dibagi menjadi
++  1.2.1 T568BSedangkan dari pemasangannya dibagi menjadi
 + Kabel Straight-Through
 Jenis pengkabelan ini digunakan untuk menyambungkan dua perangkat yang berbeda. misalnya antara router dengan switch/hub, komputer ke switch dan komputer ke hub.
 
@@ -67,10 +64,10 @@ Sebuah aplikasi penganalisa paket jaringan. Penganalisa paket jaringan akan menc
 + https://www.wireshark.org/docs/wsug_html_chunked/ChapterIntroduction.html]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODgxMDgzMTgsLTE5NjIyODI4MzgsMjA5MD
-U2ODc5NywtMTMxNTc4NDMyNCwtMjEwOTYyMjQ0MiwtNzg1MDE2
-Nzg0LDcxMDMyMTAzMCw5MTU1OTUzMTQsMTIyOTc4MTExNywtMT
-Q0ODgyNzI0OSwtNTY4ODg4OTY0LC0xODY2NDE3NzMwLC03ODg4
-NzA2MjIsLTQwMjgxMTczNCwxMDg1OTk1ODYyLDEwMzk5MTg1Ml
-19
+eyJoaXN0b3J5IjpbLTE2ODk2NDk4NjUsODgxMDgzMTgsLTE5Nj
+IyODI4MzgsMjA5MDU2ODc5NywtMTMxNTc4NDMyNCwtMjEwOTYy
+MjQ0MiwtNzg1MDE2Nzg0LDcxMDMyMTAzMCw5MTU1OTUzMTQsMT
+IyOTc4MTExNywtMTQ0ODgyNzI0OSwtNTY4ODg4OTY0LC0xODY2
+NDE3NzMwLC03ODg4NzA2MjIsLTQwMjgxMTczNCwxMDg1OTk1OD
+YyLDEwMzk5MTg1Ml19
 -->
