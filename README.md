@@ -61,10 +61,11 @@ Berkebalikan dengan kabel Straight-through, pengkabelan ini digunakan untuk meny
 ## 2. Wireshark
 Wireshark adalah sebuah aplikasi penganalisa paket jaringan. Penganalisa paket jaringan akan mencoba menangkap paket jaringan dan mencoba untuk menampilkan data paket sedetail mungkin. 
 Sebuah jaringan komputer dibangun dengan tujuan mengirimkan atau menerima data antara satu end-point dengan end-point lainnya. Data dikirim dalam bentuk paket-paket. Struktur sebuah paket terdiri dari :
-** 1. Header 
+
+***1. Header***
 | Intruksi | Keterangan |
 | --- |--- |
-| Panjang paket | dsdsa |
+| Panjang paket |  |
 |
 
 
@@ -84,11 +85,11 @@ Sebuah jaringan komputer dibangun dengan tujuan mengirimkan atau menerima data a
 + https://www.wireshark.org/docs/wsug_html_chunked/ChapterIntroduction.html]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjQxNjg2NTAsLTgxNjYxMDk4NywtNz
-A1Mjg1NTA2LDIwOTg1OTUwNDQsODgxMDgzMTgsLTE5NjIyODI4
-MzgsMjA5MDU2ODc5NywtMTMxNTc4NDMyNCwtMjEwOTYyMjQ0Mi
-wtNzg1MDE2Nzg0LDcxMDMyMTAzMCw5MTU1OTUzMTQsMTIyOTc4
-MTExNywtMTQ0ODgyNzI0OSwtNTY4ODg4OTY0LC0xODY2NDE3Nz
-MwLC03ODg4NzA2MjIsLTQwMjgxMTczNCwxMDg1OTk1ODYyLDEw
-Mzk5MTg1Ml19
+eyJoaXN0b3J5IjpbNjI3OTM3NjYxLC04MTY2MTA5ODcsLTcwNT
+I4NTUwNiwyMDk4NTk1MDQ0LDg4MTA4MzE4LC0xOTYyMjgyODM4
+LDIwOTA1Njg3OTcsLTEzMTU3ODQzMjQsLTIxMDk2MjI0NDIsLT
+c4NTAxNjc4NCw3MTAzMjEwMzAsOTE1NTk1MzE0LDEyMjk3ODEx
+MTcsLTE0NDg4MjcyNDksLTU2ODg4ODk2NCwtMTg2NjQxNzczMC
+wtNzg4ODcwNjIyLC00MDI4MTE3MzQsMTA4NTk5NTg2MiwxMDM5
+OTE4NTJdfQ==
 -->
