@@ -27,7 +27,7 @@ Tang ini digunakan untuk memasangkan kabel pada RJ45.
 Seperti namanya, alat ini digunakan untuk memeriksa apakah kabel yang kita buat berfungsi dengan baik atau tidak.
 
 ## 2. Wireshark
-Sebuah aplikasi penganalisa paket jaringan
+Sebuah aplikasi penganalisa paket jaringan. Penganalisa paket jaringan akan mencoba menangkap paket jaringan dan mencoba untuk menampilkan 
 ### 2.1 Instalasi
 
 ### 2.2 Filters
@@ -41,5 +41,5 @@ Sebuah aplikasi penganalisa paket jaringan
 + http://mediatech.co.id/mediatech-catalog/networking/item/root/rj-45.html
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2ODY4NDg5MywxMDM5OTE4NTJdfQ==
+eyJoaXN0b3J5IjpbLTEwNjUxMTQ5OCwxMDM5OTE4NTJdfQ==
 -->
