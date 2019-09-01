@@ -118,7 +118,9 @@ Dalam Wireshark terdapat 2 jenis filter yaitu ***Capture Filter*** dan ***Displa
 #### 2.2.2 Display Filter
 
  - Definisi : Memilah paket yang akan ditampilkan dari kumpulan paket yang sudah ditangkap
- - Secara umum sintaks display filter terdiri dari `[protokol] [field] [comparison operator] [value]. Berikut ini daftar comparison ope`
+ - Secara umum sintaks display filter terdiri dari `[protokol] [field] [comparison operator] [value]`. Berikut ini daftar ***comparison operator*** yang tersedia : 
+
+
 
 ## Referensi
 + https://nyengnyeng.com/macam-macam-kabel-jaringan-komputer/
@@ -128,11 +130,11 @@ Dalam Wireshark terdapat 2 jenis filter yaitu ***Capture Filter*** dan ***Displa
 + https://www.wireshark.org/docs/wsug_html_chunked/ChapterIntroduction.html]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0NTI0NjcwOSwtNDM5MzM3NjYsLTE4MD
-gyMTM0OTQsLTIwNTIzNjEzMzIsLTEzMDQ1ODc1ODgsLTE0OTg0
-OTg3OTgsNzU2NjYzOTgxLC04MTY2MTA5ODcsLTcwNTI4NTUwNi
-wyMDk4NTk1MDQ0LDg4MTA4MzE4LC0xOTYyMjgyODM4LDIwOTA1
-Njg3OTcsLTEzMTU3ODQzMjQsLTIxMDk2MjI0NDIsLTc4NTAxNj
-c4NCw3MTAzMjEwMzAsOTE1NTk1MzE0LDEyMjk3ODExMTcsLTE0
-NDg4MjcyNDldfQ==
+eyJoaXN0b3J5IjpbLTg3NDk5MTE3LC00MzkzMzc2NiwtMTgwOD
+IxMzQ5NCwtMjA1MjM2MTMzMiwtMTMwNDU4NzU4OCwtMTQ5ODQ5
+ODc5OCw3NTY2NjM5ODEsLTgxNjYxMDk4NywtNzA1Mjg1NTA2LD
+IwOTg1OTUwNDQsODgxMDgzMTgsLTE5NjIyODI4MzgsMjA5MDU2
+ODc5NywtMTMxNTc4NDMyNCwtMjEwOTYyMjQ0MiwtNzg1MDE2Nz
+g0LDcxMDMyMTAzMCw5MTU1OTUzMTQsMTIyOTc4MTExNywtMTQ0
+ODgyNzI0OV19
 -->
