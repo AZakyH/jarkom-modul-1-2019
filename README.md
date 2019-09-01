@@ -85,6 +85,7 @@ Setelah melakukan instalasi , jalankan Wireshark sebagai **administrator** (WInd
 Berikut tampilan awalnya :
 
 ### 2.2 Filters
+Dalam Wireshark terdapat 2 jenis filter yaitu ***Capture Filter*** dan ***Display Filter***
 
 #### 2.2.1 Capture Filter
 
@@ -98,11 +99,11 @@ Berikut tampilan awalnya :
 + https://www.wireshark.org/docs/wsug_html_chunked/ChapterIntroduction.html]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDgyMTM0OTQsLTIwNTIzNjEzMzIsLT
-EzMDQ1ODc1ODgsLTE0OTg0OTg3OTgsNzU2NjYzOTgxLC04MTY2
-MTA5ODcsLTcwNTI4NTUwNiwyMDk4NTk1MDQ0LDg4MTA4MzE4LC
-0xOTYyMjgyODM4LDIwOTA1Njg3OTcsLTEzMTU3ODQzMjQsLTIx
-MDk2MjI0NDIsLTc4NTAxNjc4NCw3MTAzMjEwMzAsOTE1NTk1Mz
-E0LDEyMjk3ODExMTcsLTE0NDg4MjcyNDksLTU2ODg4ODk2NCwt
-MTg2NjQxNzczMF19
+eyJoaXN0b3J5IjpbLTQzOTMzNzY2LC0xODA4MjEzNDk0LC0yMD
+UyMzYxMzMyLC0xMzA0NTg3NTg4LC0xNDk4NDk4Nzk4LDc1NjY2
+Mzk4MSwtODE2NjEwOTg3LC03MDUyODU1MDYsMjA5ODU5NTA0NC
+w4ODEwODMxOCwtMTk2MjI4MjgzOCwyMDkwNTY4Nzk3LC0xMzE1
+Nzg0MzI0LC0yMTA5NjIyNDQyLC03ODUwMTY3ODQsNzEwMzIxMD
+MwLDkxNTU5NTMxNCwxMjI5NzgxMTE3LC0xNDQ4ODI3MjQ5LC01
+Njg4ODg5NjRdfQ==
 -->
