@@ -27,6 +27,7 @@ RJ45 adalah konektor yang akan menghubungkan kabel UTP dengan perangkat.
 Tang ini digunakan untuk memasangkan kabel pada RJ45.
 #### d. LAN Tester
 ![Kabel UTP](images/lan_tester.jpg)
+
 Seperti namanya, alat ini digunakan untuk memeriksa apakah kabel yang kita buat berfungsi dengan baik atau tidak.
 ### 1.2 Langkah - Langkah
 1. 
@@ -49,7 +50,7 @@ Sebuah aplikasi penganalisa paket jaringan. Penganalisa paket jaringan akan menc
 + https://www.wireshark.org/docs/wsug_html_chunked/ChapterIntroduction.html]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2Nzg5MTE2OSwtNTY4ODg4OTY0LC0xOD
-Y2NDE3NzMwLC03ODg4NzA2MjIsLTQwMjgxMTczNCwxMDg1OTk1
-ODYyLDEwMzk5MTg1Ml19
+eyJoaXN0b3J5IjpbLTE0NDg4MjcyNDksLTU2ODg4ODk2NCwtMT
+g2NjQxNzczMCwtNzg4ODcwNjIyLC00MDI4MTE3MzQsMTA4NTk5
+NTg2MiwxMDM5OTE4NTJdfQ==
 -->
