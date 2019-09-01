@@ -46,6 +46,6 @@ Sebuah aplikasi penganalisa paket jaringan. Penganalisa paket jaringan akan menc
 + https://www.wireshark.org/docs/wsug_html_chunked/ChapterIntroduction.html]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4ODg3MDYyMiwtNDAyODExNzM0LDEwOD
-U5OTU4NjIsMTAzOTkxODUyXX0=
+eyJoaXN0b3J5IjpbLTE4NjY0MTc3MzAsLTc4ODg3MDYyMiwtND
+AyODExNzM0LDEwODU5OTU4NjIsMTAzOTkxODUyXX0=
 -->
