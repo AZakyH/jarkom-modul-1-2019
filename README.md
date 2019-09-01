@@ -30,7 +30,7 @@ Tang ini digunakan untuk memasangkan kabel pada RJ45.
 
 Seperti namanya, alat ini digunakan untuk memeriksa apakah kabel yang kita buat berfungsi dengan baik atau tidak.
 ### 1.2 Konfigurasi Kabel
-Ada beberapa macam konfigurasi kabel. 
+Ada beberapa macam konfigurasi kabel. Untuk kali ini 
 
 ### 1.3 Langkah - Langkah
 1. Siapkan keperluan crimping (kabel UTP, RJ45, tang crimping, LAN tester)
@@ -57,9 +57,9 @@ Sebuah aplikasi penganalisa paket jaringan. Penganalisa paket jaringan akan menc
 + https://www.wireshark.org/docs/wsug_html_chunked/ChapterIntroduction.html]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTU3ODQzMjQsLTIxMDk2MjI0NDIsLT
-c4NTAxNjc4NCw3MTAzMjEwMzAsOTE1NTk1MzE0LDEyMjk3ODEx
-MTcsLTE0NDg4MjcyNDksLTU2ODg4ODk2NCwtMTg2NjQxNzczMC
-wtNzg4ODcwNjIyLC00MDI4MTE3MzQsMTA4NTk5NTg2MiwxMDM5
-OTE4NTJdfQ==
+eyJoaXN0b3J5IjpbMTMyMTM3NjUwNCwtMTMxNTc4NDMyNCwtMj
+EwOTYyMjQ0MiwtNzg1MDE2Nzg0LDcxMDMyMTAzMCw5MTU1OTUz
+MTQsMTIyOTc4MTExNywtMTQ0ODgyNzI0OSwtNTY4ODg4OTY0LC
+0xODY2NDE3NzMwLC03ODg4NzA2MjIsLTQwMjgxMTczNCwxMDg1
+OTk1ODYyLDEwMzk5MTg1Ml19
 -->
