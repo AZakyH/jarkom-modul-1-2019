@@ -93,9 +93,13 @@ Dalam Wireshark terdapat 2 jenis filter yaitu ***Capture Filter*** dan ***Displa
  - Definisi : Memilah paket yang akan ditangkap (captured). Paket yang tidak memenuhi kriteria dibiarkan lewat tanpa ditangkap
  - Sintaks filter dapat terdiri dari 1 atau lebih **primitive**. primitive sendiri biasanya terdiri dari sebuah **id** (bilangan atau nama) yang didahului oleh 1 atau lebih jenis qualifier. Perlu diingat bahwa dalam 1 primitive tidak boleh ada 2 atau lebih qualifier sejenis
  - Jenis qualifier :
- | Qualifier | Keterangan | Contoh |
+|  |  |  |
 | --- | --- | --- |
 |  |  |  |
+|  |  |
+|--|--|
+|  |  |
+
 #### 2.2.2 Display Filter1.2 Langkah - 
 
 ## Referensi
@@ -106,11 +110,11 @@ Dalam Wireshark terdapat 2 jenis filter yaitu ***Capture Filter*** dan ***Displa
 + https://www.wireshark.org/docs/wsug_html_chunked/ChapterIntroduction.html]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg3MjEzNTI2LC00MzkzMzc2NiwtMTgwOD
-IxMzQ5NCwtMjA1MjM2MTMzMiwtMTMwNDU4NzU4OCwtMTQ5ODQ5
-ODc5OCw3NTY2NjM5ODEsLTgxNjYxMDk4NywtNzA1Mjg1NTA2LD
-IwOTg1OTUwNDQsODgxMDgzMTgsLTE5NjIyODI4MzgsMjA5MDU2
-ODc5NywtMTMxNTc4NDMyNCwtMjEwOTYyMjQ0MiwtNzg1MDE2Nz
-g0LDcxMDMyMTAzMCw5MTU1OTUzMTQsMTIyOTc4MTExNywtMTQ0
-ODgyNzI0OV19
+eyJoaXN0b3J5IjpbMTMyMjQxMzY3MywtNDM5MzM3NjYsLTE4MD
+gyMTM0OTQsLTIwNTIzNjEzMzIsLTEzMDQ1ODc1ODgsLTE0OTg0
+OTg3OTgsNzU2NjYzOTgxLC04MTY2MTA5ODcsLTcwNTI4NTUwNi
+wyMDk4NTk1MDQ0LDg4MTA4MzE4LC0xOTYyMjgyODM4LDIwOTA1
+Njg3OTcsLTEzMTU3ODQzMjQsLTIxMDk2MjI0NDIsLTc4NTAxNj
+c4NCw3MTAzMjEwMzAsOTE1NTk1MzE0LDEyMjk3ODExMTcsLTE0
+NDg4MjcyNDldfQ==
 -->
