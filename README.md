@@ -72,7 +72,7 @@ Bagian header berisi alamat dan data lainnya yang dibawa oleh paket. Struktur da
 | Protokol | Pada jaringan yang membawa lebih dari satu macam informasi, protokol ini menunjukkan jenis paket yang ditransmiskan: e-mail, halaman web, atau yang lain |
 | Alamat tujuan | Ke mana paket dikirimkan |
 | Alamat asal | Dari mana paket dikirimkan |
-
+2. 
 ### 2.1 Instalasi
 
 ### 2.2 Filters
@@ -89,11 +89,11 @@ Bagian header berisi alamat dan data lainnya yang dibawa oleh paket. Struktur da
 + https://www.wireshark.org/docs/wsug_html_chunked/ChapterIntroduction.html]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU2NjYzOTgxLC04MTY2MTA5ODcsLTcwNT
-I4NTUwNiwyMDk4NTk1MDQ0LDg4MTA4MzE4LC0xOTYyMjgyODM4
-LDIwOTA1Njg3OTcsLTEzMTU3ODQzMjQsLTIxMDk2MjI0NDIsLT
-c4NTAxNjc4NCw3MTAzMjEwMzAsOTE1NTk1MzE0LDEyMjk3ODEx
-MTcsLTE0NDg4MjcyNDksLTU2ODg4ODk2NCwtMTg2NjQxNzczMC
-wtNzg4ODcwNjIyLC00MDI4MTE3MzQsMTA4NTk5NTg2MiwxMDM5
-OTE4NTJdfQ==
+eyJoaXN0b3J5IjpbMTAzNjE4MDI5Myw3NTY2NjM5ODEsLTgxNj
+YxMDk4NywtNzA1Mjg1NTA2LDIwOTg1OTUwNDQsODgxMDgzMTgs
+LTE5NjIyODI4MzgsMjA5MDU2ODc5NywtMTMxNTc4NDMyNCwtMj
+EwOTYyMjQ0MiwtNzg1MDE2Nzg0LDcxMDMyMTAzMCw5MTU1OTUz
+MTQsMTIyOTc4MTExNywtMTQ0ODgyNzI0OSwtNTY4ODg4OTY0LC
+0xODY2NDE3NzMwLC03ODg4NzA2MjIsLTQwMjgxMTczNCwxMDg1
+OTk1ODYyXX0=
 -->
