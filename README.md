@@ -5,7 +5,7 @@
      + 1.1 [Peralatan yang dibutuhkan](#peralatan-yang-dibutuhkan)
      + 1.2 [Jenis-jenis Konfigurasi Kabel UTP]()
      + 1.3 Langkah-langkah
-+ 2. [Wireshark] (#wireshark)
++ 2. [Wireshark]Langka (#wireshark)
 
 
 ## 1. Wire Crimping
@@ -42,6 +42,6 @@ Sebuah aplikasi penganalisa paket jaringan. Penganalisa paket jaringan akan menc
 + https://www.wireshark.org/docs/wsug_html_chunked/ChapterIntroduction.html]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3NzczNjI3MCwxMDg1OTk1ODYyLDEwMz
-k5MTg1Ml19
+eyJoaXN0b3J5IjpbLTQwMjgxMTczNCwxMjc3NzM2MjcwLDEwOD
+U5OTU4NjIsMTAzOTkxODUyXX0=
 -->
