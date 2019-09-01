@@ -26,6 +26,11 @@ Tang ini digunakan untuk memasangkan kabel pada RJ45.
 #### d. LAN Tester
 Seperti namanya, alat ini digunakan untuk memeriksa apakah kabel yang kita buat berfungsi dengan baik atau tidak.
 
+## 2. Wireshark
+
+### 2.1 Instalasi
+
+### 2.2 Filters
 
 ## Referensi
 + https://nyengnyeng.com/macam-macam-kabel-jaringan-komputer/
