@@ -37,7 +37,8 @@ Ada beberapa macam konfigurasi kabel. Dari urutan warnanya yang sesuai standar i
 ![UrutanT586B]()
 Sedangkan dari pemasangannya dibagi menjadi
 + Kabel Straight-Through
-Jenis pengkabelan ini digunakan untuk menyambungkan dua perangkat yang berbeda. 
+Jenis pengkabelan ini digunakan untuk menyambungkan dua perangkat yang berbeda. misalnya antara router dengan switch/hub, komputer ke switch dan komputer ke hub.
+
 + Kabel Cross Over
 
 
@@ -66,10 +67,10 @@ Sebuah aplikasi penganalisa paket jaringan. Penganalisa paket jaringan akan menc
 + https://www.wireshark.org/docs/wsug_html_chunked/ChapterIntroduction.html]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4MDI4NTIwMywtMTk2MjI4MjgzOCwyMD
-kwNTY4Nzk3LC0xMzE1Nzg0MzI0LC0yMTA5NjIyNDQyLC03ODUw
-MTY3ODQsNzEwMzIxMDMwLDkxNTU5NTMxNCwxMjI5NzgxMTE3LC
-0xNDQ4ODI3MjQ5LC01Njg4ODg5NjQsLTE4NjY0MTc3MzAsLTc4
-ODg3MDYyMiwtNDAyODExNzM0LDEwODU5OTU4NjIsMTAzOTkxOD
-UyXX0=
+eyJoaXN0b3J5IjpbODgxMDgzMTgsLTE5NjIyODI4MzgsMjA5MD
+U2ODc5NywtMTMxNTc4NDMyNCwtMjEwOTYyMjQ0MiwtNzg1MDE2
+Nzg0LDcxMDMyMTAzMCw5MTU1OTUzMTQsMTIyOTc4MTExNywtMT
+Q0ODgyNzI0OSwtNTY4ODg4OTY0LC0xODY2NDE3NzMwLC03ODg4
+NzA2MjIsLTQwMjgxMTczNCwxMDg1OTk1ODYyLDEwMzk5MTg1Ml
+19
 -->
