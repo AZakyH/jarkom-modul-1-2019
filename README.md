@@ -152,6 +152,9 @@ Dalam Wireshark terdapat 2 jenis filter yaitu ***Capture Filter*** dan ***Displa
 | `http.request.uri constains "login"` | Menampilkan semua paket dengan protokol HTTP yang URI nya mengandung string "login" |
 
  - Contoh display filter `http.accept constains "text"`, berikut hasilnya :
+[Gambar]()
+
+### 2.3 Export data hasil paket capture
 
 ## Referensi
 + https://nyengnyeng.com/macam-macam-kabel-jaringan-komputer/
@@ -161,7 +164,7 @@ Dalam Wireshark terdapat 2 jenis filter yaitu ***Capture Filter*** dan ***Displa
 + https://www.wireshark.org/docs/wsug_html_chunked/ChapterIntroduction.html]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzOTg2NjYxNCwtNDM5MzM3NjYsLTE4MD
+eyJoaXN0b3J5IjpbMTM5ODQwMDc5OSwtNDM5MzM3NjYsLTE4MD
 gyMTM0OTQsLTIwNTIzNjEzMzIsLTEzMDQ1ODc1ODgsLTE0OTg0
 OTg3OTgsNzU2NjYzOTgxLC04MTY2MTA5ODcsLTcwNTI4NTUwNi
 wyMDk4NTk1MDQ0LDg4MTA4MzE4LC0xOTYyMjgyODM4LDIwOTA1
