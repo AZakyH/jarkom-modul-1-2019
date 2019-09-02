@@ -167,6 +167,11 @@ Saat hasil capture dari Wireshark dilihat, akan muncul data di bawah ini:
 
 ![Login FileZilla](images/fz_login_wireshark.JPG)
 
+| Perintah | Keterangan |
+|---|---|
+| USE | == | Sama dengan |
+|
+
 ## Referensi
 + https://nyengnyeng.com/macam-macam-kabel-jaringan-komputer/
 + http://haidirhmc.blogspot.com/2011/12/urutan-warna-kabel-lan-atau-kabel-t568a.html
@@ -175,7 +180,7 @@ Saat hasil capture dari Wireshark dilihat, akan muncul data di bawah ini:
 + https://www.wireshark.org/docs/wsug_html_chunked/ChapterIntroduction.html]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0NjA5NzU0NCwxMTU3Njc4MzYsOTE5Nz
+eyJoaXN0b3J5IjpbMjAyNTUzNTY3OSwxMTU3Njc4MzYsOTE5Nz
 MzNTIsMzQ0MTUyNzI5LC0xOTg2MDE3OTM2LC0yNDQ2MDM2ODUs
 LTg3NTk0NTc5Niw4ODQyMTAwMDMsMTM5ODQwMDc5OSwtNDM5Mz
 M3NjYsLTE4MDgyMTM0OTQsLTIwNTIzNjEzMzIsLTEzMDQ1ODc1
