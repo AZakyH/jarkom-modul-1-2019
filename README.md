@@ -175,7 +175,12 @@ Untuk pengguna windows kita akan menggunakan bantuan **FileZilla**. Buka FileZil
 
 ![Login FileZilla](images/filezilla_connect.JPG)
 
-##### b. 
+##### b. Linux
+
+`$ ftp [Host ip]`
+Masukkan username dan password, kemudian jalankan seperti CLI
+
+ 
 Saat hasil capture dari Wireshark dilihat, akan muncul data di bawah ini:
 
 ![Login FileZilla](images/fz_login_wireshark.JPG)
@@ -193,11 +198,11 @@ Saat hasil capture dari Wireshark dilihat, akan muncul data di bawah ini:
 + https://www.wireshark.org/docs/wsug_html_chunked/ChapterIntroduction.html]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM2Nzg2ODE0LC0yMjU5OTYwNjUsMTI5Mj
-A3OTQyOSwtMjEwMjIzMTE1NCwtODE1MTk5MzY4LDExNTc2Nzgz
-Niw5MTk3MzM1MiwzNDQxNTI3MjksLTE5ODYwMTc5MzYsLTI0ND
-YwMzY4NSwtODc1OTQ1Nzk2LDg4NDIxMDAwMywxMzk4NDAwNzk5
-LC00MzkzMzc2NiwtMTgwODIxMzQ5NCwtMjA1MjM2MTMzMiwtMT
-MwNDU4NzU4OCwtMTQ5ODQ5ODc5OCw3NTY2NjM5ODEsLTgxNjYx
-MDk4N119
+eyJoaXN0b3J5IjpbMTI2MjUwOTAyMiwtMjI1OTk2MDY1LDEyOT
+IwNzk0MjksLTIxMDIyMzExNTQsLTgxNTE5OTM2OCwxMTU3Njc4
+MzYsOTE5NzMzNTIsMzQ0MTUyNzI5LC0xOTg2MDE3OTM2LC0yND
+Q2MDM2ODUsLTg3NTk0NTc5Niw4ODQyMTAwMDMsMTM5ODQwMDc5
+OSwtNDM5MzM3NjYsLTE4MDgyMTM0OTQsLTIwNTIzNjEzMzIsLT
+EzMDQ1ODc1ODgsLTE0OTg0OTg3OTgsNzU2NjYzOTgxLC04MTY2
+MTA5ODddfQ==
 -->
