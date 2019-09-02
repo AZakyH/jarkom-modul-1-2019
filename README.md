@@ -159,7 +159,7 @@ Dalam Wireshark terdapat 2 jenis filter yaitu ***Capture Filter*** dan ***Displa
 Jalankan aplikasi wireshark sebelum *connect* ke server FTP yang dituju.
 #### 2.4.1 Connect ke Server
 ##### a. Windows
-Untuk pengguna windows kita akan menggunakan bantuan **FileZilla**. Buka FileZilla dan masukkan *Host*, *Username*, *Password*, dan *Port* dari server yang akan disambungkan. Bila sudah yakin klik *Quickconnect* untuk menyambungkan.
+Untuk pengguna windows kita akan menggunakan bantuan **FileZilla**. Buka FileZilla dan masukkan *Host*, *Username*, *Password*, dan *Port* dari server yang akan disambungkan. Bila sudah yakin, klik *Quickconnect* untuk menyambungkan.
 
 ## Referensi
 + https://nyengnyeng.com/macam-macam-kabel-jaringan-komputer/
@@ -169,11 +169,11 @@ Untuk pengguna windows kita akan menggunakan bantuan **FileZilla**. Buka FileZil
 + https://www.wireshark.org/docs/wsug_html_chunked/ChapterIntroduction.html]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjMzNDQxMzIyLDkxOTczMzUyLDM0NDE1Mj
-cyOSwtMTk4NjAxNzkzNiwtMjQ0NjAzNjg1LC04NzU5NDU3OTYs
-ODg0MjEwMDAzLDEzOTg0MDA3OTksLTQzOTMzNzY2LC0xODA4Mj
-EzNDk0LC0yMDUyMzYxMzMyLC0xMzA0NTg3NTg4LC0xNDk4NDk4
-Nzk4LDc1NjY2Mzk4MSwtODE2NjEwOTg3LC03MDUyODU1MDYsMj
-A5ODU5NTA0NCw4ODEwODMxOCwtMTk2MjI4MjgzOCwyMDkwNTY4
-Nzk3XX0=
+eyJoaXN0b3J5IjpbLTI3ODU5NDI3OCw5MTk3MzM1MiwzNDQxNT
+I3MjksLTE5ODYwMTc5MzYsLTI0NDYwMzY4NSwtODc1OTQ1Nzk2
+LDg4NDIxMDAwMywxMzk4NDAwNzk5LC00MzkzMzc2NiwtMTgwOD
+IxMzQ5NCwtMjA1MjM2MTMzMiwtMTMwNDU4NzU4OCwtMTQ5ODQ5
+ODc5OCw3NTY2NjM5ODEsLTgxNjYxMDk4NywtNzA1Mjg1NTA2LD
+IwOTg1OTUwNDQsODgxMDgzMTgsLTE5NjIyODI4MzgsMjA5MDU2
+ODc5N119
 -->
