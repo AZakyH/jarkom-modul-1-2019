@@ -163,6 +163,7 @@ Untuk pengguna windows kita akan menggunakan bantuan **FileZilla**. Buka FileZil
 
 ![Login FileZilla](images/filezilla_connect.JPG)
 
+Saat hasil capture dari Wireshark dilihat, akan muncul data di bawah ini:
 
 ![Login FileZilla](images/fz_login_wireshark.JPG)
 
@@ -174,7 +175,7 @@ Untuk pengguna windows kita akan menggunakan bantuan **FileZilla**. Buka FileZil
 + https://www.wireshark.org/docs/wsug_html_chunked/ChapterIntroduction.html]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNjk0MjMzNCwxMTU3Njc4MzYsOTE5Nz
+eyJoaXN0b3J5IjpbMTE0NjA5NzU0NCwxMTU3Njc4MzYsOTE5Nz
 MzNTIsMzQ0MTUyNzI5LC0xOTg2MDE3OTM2LC0yNDQ2MDM2ODUs
 LTg3NTk0NTc5Niw4ODQyMTAwMDMsMTM5ODQwMDc5OSwtNDM5Mz
 M3NjYsLTE4MDgyMTM0OTQsLTIwNTIzNjEzMzIsLTEzMDQ1ODc1
