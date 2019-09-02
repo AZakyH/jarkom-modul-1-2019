@@ -92,7 +92,7 @@ Berikut tampilan awalnya :
 Dalam Wireshark terdapat 2 jenis filter yaitu ***Capture Filter*** dan ***Display Filter***
 
 #### 2.2.1 Capture Filter
-![Gambar](imag)
+![Gambar](images/capture.png)
 
  - Definisi : Memilah paket yang akan ditangkap (captured). Paket yang tidak memenuhi kriteria dibiarkan lewat tanpa ditangkap
  - Sintaks filter dapat terdiri dari 1 atau lebih **primitive**. primitive sendiri biasanya terdiri dari sebuah **id** (bilangan atau nama) yang didahului oleh 1 atau lebih jenis qualifier. Perlu diingat bahwa dalam 1 primitive tidak boleh ada 2 atau lebih qualifier sejenis
@@ -116,8 +116,8 @@ Dalam Wireshark terdapat 2 jenis filter yaitu ***Capture Filter*** dan ***Displa
 | `udp port 80` | Menangkap semua paket dengan protokol UDP yang menuju ke atau berasal dari port 80 |
 | `tcp src port 22 || host 10.151.36.30` | Menangkap semua paket dengan protokol TCP yang berasal dari port 22 atau semua paket yang berasal dari atau menuju ke alamat 10.151.36.30 |
 
- - Contoh capture filter `tcp dst port 443`
-![Gambar]()
+ - Contoh capture filter `host 10.151.36.1`
+![Gambar](images/capture-filter.png)
 
 #### 2.2.2 Display Filter
 
@@ -192,7 +192,7 @@ Saat hasil capture dari Wireshark dilihat, akan muncul data di bawah ini:
 + https://www.wireshark.org/docs/wsug_html_chunked/ChapterIntroduction.html]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzNDM2ODk4OCwtMjI1OTk2MDY1LDEyOT
+eyJoaXN0b3J5IjpbMTQ3NzIyMjAxNSwtMjI1OTk2MDY1LDEyOT
 IwNzk0MjksLTIxMDIyMzExNTQsLTgxNTE5OTM2OCwxMTU3Njc4
 MzYsOTE5NzMzNTIsMzQ0MTUyNzI5LC0xOTg2MDE3OTM2LC0yND
 Q2MDM2ODUsLTg3NTk0NTc5Niw4ODQyMTAwMDMsMTM5ODQwMDc5
