@@ -92,7 +92,7 @@ Berikut tampilan awalnya :
 Dalam Wireshark terdapat 2 jenis filter yaitu ***Capture Filter*** dan ***Display Filter***
 
 #### 2.2.1 Capture Filter
-[Gambar]()
+![Gambar](imag)
 
  - Definisi : Memilah paket yang akan ditangkap (captured). Paket yang tidak memenuhi kriteria dibiarkan lewat tanpa ditangkap
  - Sintaks filter dapat terdiri dari 1 atau lebih **primitive**. primitive sendiri biasanya terdiri dari sebuah **id** (bilangan atau nama) yang didahului oleh 1 atau lebih jenis qualifier. Perlu diingat bahwa dalam 1 primitive tidak boleh ada 2 atau lebih qualifier sejenis
@@ -192,11 +192,11 @@ Saat hasil capture dari Wireshark dilihat, akan muncul data di bawah ini:
 + https://www.wireshark.org/docs/wsug_html_chunked/ChapterIntroduction.html]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyNTk5NjA2NSwxMjkyMDc5NDI5LC0yMT
-AyMjMxMTU0LC04MTUxOTkzNjgsMTE1NzY3ODM2LDkxOTczMzUy
-LDM0NDE1MjcyOSwtMTk4NjAxNzkzNiwtMjQ0NjAzNjg1LC04Nz
-U5NDU3OTYsODg0MjEwMDAzLDEzOTg0MDA3OTksLTQzOTMzNzY2
-LC0xODA4MjEzNDk0LC0yMDUyMzYxMzMyLC0xMzA0NTg3NTg4LC
-0xNDk4NDk4Nzk4LDc1NjY2Mzk4MSwtODE2NjEwOTg3LC03MDUy
-ODU1MDZdfQ==
+eyJoaXN0b3J5IjpbMTMzNDM2ODk4OCwtMjI1OTk2MDY1LDEyOT
+IwNzk0MjksLTIxMDIyMzExNTQsLTgxNTE5OTM2OCwxMTU3Njc4
+MzYsOTE5NzMzNTIsMzQ0MTUyNzI5LC0xOTg2MDE3OTM2LC0yND
+Q2MDM2ODUsLTg3NTk0NTc5Niw4ODQyMTAwMDMsMTM5ODQwMDc5
+OSwtNDM5MzM3NjYsLTE4MDgyMTM0OTQsLTIwNTIzNjEzMzIsLT
+EzMDQ1ODc1ODgsLTE0OTg0OTg3OTgsNzU2NjYzOTgxLC04MTY2
+MTA5ODddfQ==
 -->
