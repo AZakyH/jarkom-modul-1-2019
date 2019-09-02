@@ -190,7 +190,10 @@ Saat hasil capture dari Wireshark dilihat, akan muncul data di bawah ini:
 | PWD | Password yang digunakan untuk login ke FTP server |
 
 #### 2.4.2 Upload File
-
+##### a. Windows
+Untuk FileZilla cukup drag dari Local site lalu Drop di remote site
+##### b. Linux
+Comman upload 
 ## Referensi
 + https://nyengnyeng.com/macam-macam-kabel-jaringan-komputer/
 + http://haidirhmc.blogspot.com/2011/12/urutan-warna-kabel-lan-atau-kabel-t568a.html
@@ -199,7 +202,7 @@ Saat hasil capture dari Wireshark dilihat, akan muncul data di bawah ini:
 + https://www.wireshark.org/docs/wsug_html_chunked/ChapterIntroduction.html]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3OTExNjk4MSwtMjI1OTk2MDY1LDEyOT
+eyJoaXN0b3J5IjpbLTM1ODEyMTg2MywtMjI1OTk2MDY1LDEyOT
 IwNzk0MjksLTIxMDIyMzExNTQsLTgxNTE5OTM2OCwxMTU3Njc4
 MzYsOTE5NzMzNTIsMzQ0MTUyNzI5LC0xOTg2MDE3OTM2LC0yND
 Q2MDM2ODUsLTg3NTk0NTc5Niw4ODQyMTAwMDMsMTM5ODQwMDc5
