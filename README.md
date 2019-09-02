@@ -191,7 +191,7 @@ Saat hasil capture dari Wireshark dilihat, akan muncul data di bawah ini:
 
 #### 2.4.2 Upload File
 ##### a. Windows
-Untuk FileZilla cukup drag dari Local site lalu Drop di remote site
+Untuk FileZilla drag file dari Local site lalu drop di Remote site
 
 ##### b. Linux
 Command upload untuk linux
@@ -201,7 +201,9 @@ Saat hasil capture dilihat akan muncul data dibawah ini :
 
 #### 2.4.3 Download File
 ##### a. Windows
+Untuk Filezilla drag file dari Remote site ke Local site
 
+##### b. Linux
 ## Referensi
 + https://nyengnyeng.com/macam-macam-kabel-jaringan-komputer/
 + http://haidirhmc.blogspot.com/2011/12/urutan-warna-kabel-lan-atau-kabel-t568a.html
@@ -210,11 +212,11 @@ Saat hasil capture dilihat akan muncul data dibawah ini :
 + https://www.wireshark.org/docs/wsug_html_chunked/ChapterIntroduction.html]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDE2Nzk0MzMsLTIyNTk5NjA2NSwxMj
-kyMDc5NDI5LC0yMTAyMjMxMTU0LC04MTUxOTkzNjgsMTE1NzY3
-ODM2LDkxOTczMzUyLDM0NDE1MjcyOSwtMTk4NjAxNzkzNiwtMj
-Q0NjAzNjg1LC04NzU5NDU3OTYsODg0MjEwMDAzLDEzOTg0MDA3
-OTksLTQzOTMzNzY2LC0xODA4MjEzNDk0LC0yMDUyMzYxMzMyLC
-0xMzA0NTg3NTg4LC0xNDk4NDk4Nzk4LDc1NjY2Mzk4MSwtODE2
-NjEwOTg3XX0=
+eyJoaXN0b3J5IjpbLTM2MDI0ODY2NCwtMjI1OTk2MDY1LDEyOT
+IwNzk0MjksLTIxMDIyMzExNTQsLTgxNTE5OTM2OCwxMTU3Njc4
+MzYsOTE5NzMzNTIsMzQ0MTUyNzI5LC0xOTg2MDE3OTM2LC0yND
+Q2MDM2ODUsLTg3NTk0NTc5Niw4ODQyMTAwMDMsMTM5ODQwMDc5
+OSwtNDM5MzM3NjYsLTE4MDgyMTM0OTQsLTIwNTIzNjEzMzIsLT
+EzMDQ1ODc1ODgsLTE0OTg0OTg3OTgsNzU2NjYzOTgxLC04MTY2
+MTA5ODddfQ==
 -->
