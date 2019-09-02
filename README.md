@@ -161,6 +161,8 @@ Jalankan aplikasi wireshark sebelum *connect* ke server FTP yang dituju.
 ##### a. Windows
 Untuk pengguna windows kita akan menggunakan bantuan **FileZilla**. Buka FileZilla dan masukkan *Host*, *Username*, *Password*, dan *Port* dari server yang akan disambungkan. Bila sudah yakin, klik *Quickconnect* untuk menyambungkan.
 
+
+
 ## Referensi
 + https://nyengnyeng.com/macam-macam-kabel-jaringan-komputer/
 + http://haidirhmc.blogspot.com/2011/12/urutan-warna-kabel-lan-atau-kabel-t568a.html
@@ -169,11 +171,11 @@ Untuk pengguna windows kita akan menggunakan bantuan **FileZilla**. Buka FileZil
 + https://www.wireshark.org/docs/wsug_html_chunked/ChapterIntroduction.html]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1NzY3ODM2LDkxOTczMzUyLDM0NDE1Mj
-cyOSwtMTk4NjAxNzkzNiwtMjQ0NjAzNjg1LC04NzU5NDU3OTYs
-ODg0MjEwMDAzLDEzOTg0MDA3OTksLTQzOTMzNzY2LC0xODA4Mj
-EzNDk0LC0yMDUyMzYxMzMyLC0xMzA0NTg3NTg4LC0xNDk4NDk4
-Nzk4LDc1NjY2Mzk4MSwtODE2NjEwOTg3LC03MDUyODU1MDYsMj
-A5ODU5NTA0NCw4ODEwODMxOCwtMTk2MjI4MjgzOCwyMDkwNTY4
-Nzk3XX0=
+eyJoaXN0b3J5IjpbLTM1MzEwNzcyMCwxMTU3Njc4MzYsOTE5Nz
+MzNTIsMzQ0MTUyNzI5LC0xOTg2MDE3OTM2LC0yNDQ2MDM2ODUs
+LTg3NTk0NTc5Niw4ODQyMTAwMDMsMTM5ODQwMDc5OSwtNDM5Mz
+M3NjYsLTE4MDgyMTM0OTQsLTIwNTIzNjEzMzIsLTEzMDQ1ODc1
+ODgsLTE0OTg0OTg3OTgsNzU2NjYzOTgxLC04MTY2MTA5ODcsLT
+cwNTI4NTUwNiwyMDk4NTk1MDQ0LDg4MTA4MzE4LC0xOTYyMjgy
+ODM4XX0=
 -->
