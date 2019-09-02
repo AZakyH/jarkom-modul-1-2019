@@ -7,7 +7,8 @@
      + 1.3 [Langkah-langkah](#langkah-langkah)
 + 2.[Wireshark](#wireshark)
 	+ 2.1 [Instalasi](#instalasi)
-	+ 2.2 Filters
+	+ 2.2 [Filters](#filters)
+	+ 2.3 [Export data hasil packet capture](#export-data-hasil-packet-capture)
 
 
 ## 1. Wire Crimping
@@ -157,6 +158,7 @@ Dalam Wireshark terdapat 2 jenis filter yaitu ***Capture Filter*** dan ***Displa
 [Gambar]()
 
 ### 2.3 Export data hasil paket capture
+
 ### 2.4 Penggunaan Wireshark pada FTP Server
 Jalankan aplikasi wireshark sebelum *connect* ke server FTP yang dituju.
 #### 2.4.1 Connect ke Server
@@ -182,7 +184,7 @@ Saat hasil capture dari Wireshark dilihat, akan muncul data di bawah ini:
 + https://www.wireshark.org/docs/wsug_html_chunked/ChapterIntroduction.html]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwNzc4ODkyLC04MTUxOTkzNjgsMTE1Nz
+eyJoaXN0b3J5IjpbMzA2MTc2NTc3LC04MTUxOTkzNjgsMTE1Nz
 Y3ODM2LDkxOTczMzUyLDM0NDE1MjcyOSwtMTk4NjAxNzkzNiwt
 MjQ0NjAzNjg1LC04NzU5NDU3OTYsODg0MjEwMDAzLDEzOTg0MD
 A3OTksLTQzOTMzNzY2LC0xODA4MjEzNDk0LC0yMDUyMzYxMzMy
