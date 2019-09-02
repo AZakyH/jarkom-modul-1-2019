@@ -158,6 +158,7 @@ Dalam Wireshark terdapat 2 jenis filter yaitu ***Capture Filter*** dan ***Displa
 ### 2.4 Penggunaan Wireshark pada FTP Server
 Jalankan aplikasi wireshark sebelum *connect* ke server FTP yang dituju.
 #### 2.4.1 Connect ke Server
+##### a. Windows
 Untuk pengguna windows kita akan menggunakan bantuan **FileZilla**. 
 
 ## Referensi
@@ -168,11 +169,11 @@ Untuk pengguna windows kita akan menggunakan bantuan **FileZilla**.
 + https://www.wireshark.org/docs/wsug_html_chunked/ChapterIntroduction.html]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ0MTUyNzI5LC0xOTg2MDE3OTM2LC0yND
-Q2MDM2ODUsLTg3NTk0NTc5Niw4ODQyMTAwMDMsMTM5ODQwMDc5
-OSwtNDM5MzM3NjYsLTE4MDgyMTM0OTQsLTIwNTIzNjEzMzIsLT
-EzMDQ1ODc1ODgsLTE0OTg0OTg3OTgsNzU2NjYzOTgxLC04MTY2
-MTA5ODcsLTcwNTI4NTUwNiwyMDk4NTk1MDQ0LDg4MTA4MzE4LC
-0xOTYyMjgyODM4LDIwOTA1Njg3OTcsLTEzMTU3ODQzMjQsLTIx
-MDk2MjI0NDJdfQ==
+eyJoaXN0b3J5IjpbLTE1MDA0MDI5NCwzNDQxNTI3MjksLTE5OD
+YwMTc5MzYsLTI0NDYwMzY4NSwtODc1OTQ1Nzk2LDg4NDIxMDAw
+MywxMzk4NDAwNzk5LC00MzkzMzc2NiwtMTgwODIxMzQ5NCwtMj
+A1MjM2MTMzMiwtMTMwNDU4NzU4OCwtMTQ5ODQ5ODc5OCw3NTY2
+NjM5ODEsLTgxNjYxMDk4NywtNzA1Mjg1NTA2LDIwOTg1OTUwND
+QsODgxMDgzMTgsLTE5NjIyODI4MzgsMjA5MDU2ODc5NywtMTMx
+NTc4NDMyNF19
 -->
