@@ -6,6 +6,8 @@
      + 1.2 [Jenis-jenis Konfigurasi Kabel UTP]()
      + 1.3 [Langkah-langkah](#langkah-langkah)
 + 2.[Wireshark](#wireshark)
+	+ 2.1 [Instalasi](#instalasi)
+	+ 2.2 Filters
 
 
 ## 1. Wire Crimping
@@ -180,11 +182,11 @@ Saat hasil capture dari Wireshark dilihat, akan muncul data di bawah ini:
 + https://www.wireshark.org/docs/wsug_html_chunked/ChapterIntroduction.html]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNTE5OTM2OCwxMTU3Njc4MzYsOTE5Nz
-MzNTIsMzQ0MTUyNzI5LC0xOTg2MDE3OTM2LC0yNDQ2MDM2ODUs
-LTg3NTk0NTc5Niw4ODQyMTAwMDMsMTM5ODQwMDc5OSwtNDM5Mz
-M3NjYsLTE4MDgyMTM0OTQsLTIwNTIzNjEzMzIsLTEzMDQ1ODc1
-ODgsLTE0OTg0OTg3OTgsNzU2NjYzOTgxLC04MTY2MTA5ODcsLT
-cwNTI4NTUwNiwyMDk4NTk1MDQ0LDg4MTA4MzE4LC0xOTYyMjgy
-ODM4XX0=
+eyJoaXN0b3J5IjpbMTYwNzc4ODkyLC04MTUxOTkzNjgsMTE1Nz
+Y3ODM2LDkxOTczMzUyLDM0NDE1MjcyOSwtMTk4NjAxNzkzNiwt
+MjQ0NjAzNjg1LC04NzU5NDU3OTYsODg0MjEwMDAzLDEzOTg0MD
+A3OTksLTQzOTMzNzY2LC0xODA4MjEzNDk0LC0yMDUyMzYxMzMy
+LC0xMzA0NTg3NTg4LC0xNDk4NDk4Nzk4LDc1NjY2Mzk4MSwtOD
+E2NjEwOTg3LC03MDUyODU1MDYsMjA5ODU5NTA0NCw4ODEwODMx
+OF19
 -->
