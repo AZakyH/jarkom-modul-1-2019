@@ -159,7 +159,7 @@ Dalam Wireshark terdapat 2 jenis filter yaitu ***Capture Filter*** dan ***Displa
 Jalankan aplikasi wireshark sebelum *connect* ke server FTP yang dituju.
 #### 2.4.1 Connect ke Server
 ##### a. Windows
-Untuk pengguna windows kita akan menggunakan bantuan **FileZilla**. 
+Untuk pengguna windows kita akan menggunakan bantuan **FileZilla**. Buka FileZilla dan masukkan *Host*, *Username*, *Pass 
 
 ## Referensi
 + https://nyengnyeng.com/macam-macam-kabel-jaringan-komputer/
@@ -169,7 +169,7 @@ Untuk pengguna windows kita akan menggunakan bantuan **FileZilla**.
 + https://www.wireshark.org/docs/wsug_html_chunked/ChapterIntroduction.html]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDA0MDI5NCwzNDQxNTI3MjksLTE5OD
+eyJoaXN0b3J5IjpbLTUxMzEyMDcwNiwzNDQxNTI3MjksLTE5OD
 YwMTc5MzYsLTI0NDYwMzY4NSwtODc1OTQ1Nzk2LDg4NDIxMDAw
 MywxMzk4NDAwNzk5LC00MzkzMzc2NiwtMTgwODIxMzQ5NCwtMj
 A1MjM2MTMzMiwtMTMwNDU4NzU4OCwtMTQ5ODQ5ODc5OCw3NTY2
