@@ -176,7 +176,6 @@ Untuk pengguna windows kita akan menggunakan bantuan **FileZilla**. Buka FileZil
 ![Login FileZilla](images/filezilla_connect.JPG)
 
 ##### b. Linux
-
 `$ ftp [Host ip]`
 Masukkan username dan password, kemudian jalankan seperti CLI
 
@@ -190,6 +189,8 @@ Saat hasil capture dari Wireshark dilihat, akan muncul data di bawah ini:
 | USER | Username yang digunakan untuk login ke FTP server |
 | PWD | Password yang digunakan untuk login ke FTP server |
 
+#### 2.4.2 Upload File
+
 ## Referensi
 + https://nyengnyeng.com/macam-macam-kabel-jaringan-komputer/
 + http://haidirhmc.blogspot.com/2011/12/urutan-warna-kabel-lan-atau-kabel-t568a.html
@@ -198,7 +199,7 @@ Saat hasil capture dari Wireshark dilihat, akan muncul data di bawah ini:
 + https://www.wireshark.org/docs/wsug_html_chunked/ChapterIntroduction.html]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2MjUwOTAyMiwtMjI1OTk2MDY1LDEyOT
+eyJoaXN0b3J5IjpbMTc3OTExNjk4MSwtMjI1OTk2MDY1LDEyOT
 IwNzk0MjksLTIxMDIyMzExNTQsLTgxNTE5OTM2OCwxMTU3Njc4
 MzYsOTE5NzMzNTIsMzQ0MTUyNzI5LC0xOTg2MDE3OTM2LC0yND
 Q2MDM2ODUsLTg3NTk0NTc5Niw4ODQyMTAwMDMsMTM5ODQwMDc5
