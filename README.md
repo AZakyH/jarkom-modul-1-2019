@@ -160,7 +160,7 @@ Dalam Wireshark terdapat 2 jenis filter yaitu ***Capture Filter*** dan ***Displa
 ### 2.3 Export data hasil paket capture
 
  1. Setelah memiliki packet, pilih pada menu bar File -> Export Objects -> (protokol yang diinginkan). Pada contoh ini dipilih protokol HTTP
-[Gambar]()
+![Gambar]()
  2. Pilih paket yang akan di-export. Pada contoh ini dipilih paket yang memuat gambar dari situs tertentu tertentu. lalu klik Save dan berikan nama file, path, beserta ekstensinya jika diperlukan.
 [Gambar]()
  3. File berhasil di-export
@@ -191,11 +191,11 @@ Saat hasil capture dari Wireshark dilihat, akan muncul data di bawah ini:
 + https://www.wireshark.org/docs/wsug_html_chunked/ChapterIntroduction.html]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDIyMzExNTQsLTgxNTE5OTM2OCwxMT
-U3Njc4MzYsOTE5NzMzNTIsMzQ0MTUyNzI5LC0xOTg2MDE3OTM2
-LC0yNDQ2MDM2ODUsLTg3NTk0NTc5Niw4ODQyMTAwMDMsMTM5OD
-QwMDc5OSwtNDM5MzM3NjYsLTE4MDgyMTM0OTQsLTIwNTIzNjEz
-MzIsLTEzMDQ1ODc1ODgsLTE0OTg0OTg3OTgsNzU2NjYzOTgxLC
-04MTY2MTA5ODcsLTcwNTI4NTUwNiwyMDk4NTk1MDQ0LDg4MTA4
-MzE4XX0=
+eyJoaXN0b3J5IjpbMTQxNDMxMzMxNSwtMjEwMjIzMTE1NCwtOD
+E1MTk5MzY4LDExNTc2NzgzNiw5MTk3MzM1MiwzNDQxNTI3Mjks
+LTE5ODYwMTc5MzYsLTI0NDYwMzY4NSwtODc1OTQ1Nzk2LDg4ND
+IxMDAwMywxMzk4NDAwNzk5LC00MzkzMzc2NiwtMTgwODIxMzQ5
+NCwtMjA1MjM2MTMzMiwtMTMwNDU4NzU4OCwtMTQ5ODQ5ODc5OC
+w3NTY2NjM5ODEsLTgxNjYxMDk4NywtNzA1Mjg1NTA2LDIwOTg1
+OTUwNDRdfQ==
 -->
