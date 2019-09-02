@@ -165,7 +165,7 @@ Dalam Wireshark terdapat 2 jenis filter yaitu ***Capture Filter*** dan ***Displa
  2. Pilih paket yang akan di-export. Pada contoh ini dipilih paket yang memuat gambar dari situs tertentu tertentu. lalu klik Save dan berikan nama file, path, beserta ekstensinya jika diperlukan.
 ![Pilih-paket](images/pilih-paket.png)
  3. File berhasil di-export
-![Gambar](images/logo.png)
+![logo](images/logo.png)
 
 ### 2.4 Penggunaan Wireshark pada FTP Server
 Jalankan aplikasi wireshark sebelum *connect* ke server FTP yang dituju.
@@ -192,7 +192,7 @@ Saat hasil capture dari Wireshark dilihat, akan muncul data di bawah ini:
 + https://www.wireshark.org/docs/wsug_html_chunked/ChapterIntroduction.html]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2OTAyNDU0MiwtMjI1OTk2MDY1LDEyOT
+eyJoaXN0b3J5IjpbMTU2MzM5OTU3MSwtMjI1OTk2MDY1LDEyOT
 IwNzk0MjksLTIxMDIyMzExNTQsLTgxNTE5OTM2OCwxMTU3Njc4
 MzYsOTE5NzMzNTIsMzQ0MTUyNzI5LC0xOTg2MDE3OTM2LC0yND
 Q2MDM2ODUsLTg3NTk0NTc5Niw4ODQyMTAwMDMsMTM5ODQwMDc5
