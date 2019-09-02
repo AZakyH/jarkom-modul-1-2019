@@ -169,8 +169,8 @@ Saat hasil capture dari Wireshark dilihat, akan muncul data di bawah ini:
 
 | Perintah | Keterangan |
 |---|---|
-| USE | == | Sama dengan |
-|
+| USER | Username yang digunakan untuk login ke FTP server |
+| PWD | Password yang digunakan untuk login ke FTP server |
 
 ## Referensi
 + https://nyengnyeng.com/macam-macam-kabel-jaringan-komputer/
@@ -180,7 +180,7 @@ Saat hasil capture dari Wireshark dilihat, akan muncul data di bawah ini:
 + https://www.wireshark.org/docs/wsug_html_chunked/ChapterIntroduction.html]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyNTUzNTY3OSwxMTU3Njc4MzYsOTE5Nz
+eyJoaXN0b3J5IjpbLTgxNTE5OTM2OCwxMTU3Njc4MzYsOTE5Nz
 MzNTIsMzQ0MTUyNzI5LC0xOTg2MDE3OTM2LC0yNDQ2MDM2ODUs
 LTg3NTk0NTc5Niw4ODQyMTAwMDMsMTM5ODQwMDc5OSwtNDM5Mz
 M3NjYsLTE4MDgyMTM0OTQsLTIwNTIzNjEzMzIsLTEzMDQ1ODc1
