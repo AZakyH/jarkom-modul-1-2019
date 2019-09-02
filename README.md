@@ -193,7 +193,9 @@ Saat hasil capture dari Wireshark dilihat, akan muncul data di bawah ini:
 ##### a. Windows
 Untuk FileZilla cukup drag dari Local site lalu Drop di remote site
 ##### b. Linux
-Comman upload 
+Command upload untuk linux
+`$ put [full path file]`
+
 ## Referensi
 + https://nyengnyeng.com/macam-macam-kabel-jaringan-komputer/
 + http://haidirhmc.blogspot.com/2011/12/urutan-warna-kabel-lan-atau-kabel-t568a.html
@@ -202,7 +204,7 @@ Comman upload
 + https://www.wireshark.org/docs/wsug_html_chunked/ChapterIntroduction.html]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1ODEyMTg2MywtMjI1OTk2MDY1LDEyOT
+eyJoaXN0b3J5IjpbMjAyNDY3MzExNSwtMjI1OTk2MDY1LDEyOT
 IwNzk0MjksLTIxMDIyMzExNTQsLTgxNTE5OTM2OCwxMTU3Njc4
 MzYsOTE5NzMzNTIsMzQ0MTUyNzI5LC0xOTg2MDE3OTM2LC0yND
 Q2MDM2ODUsLTg3NTk0NTc5Niw4ODQyMTAwMDMsMTM5ODQwMDc5
