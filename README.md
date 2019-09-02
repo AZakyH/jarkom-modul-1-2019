@@ -155,6 +155,7 @@ Dalam Wireshark terdapat 2 jenis filter yaitu ***Capture Filter*** dan ***Displa
 [Gambar]()
 
 ### 2.3 Export data hasil paket capture
+### 2.4 
 
 ## Referensi
 + https://nyengnyeng.com/macam-macam-kabel-jaringan-komputer/
@@ -164,11 +165,11 @@ Dalam Wireshark terdapat 2 jenis filter yaitu ***Capture Filter*** dan ***Displa
 + https://www.wireshark.org/docs/wsug_html_chunked/ChapterIntroduction.html]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg0MjEwMDAzLDEzOTg0MDA3OTksLTQzOT
-MzNzY2LC0xODA4MjEzNDk0LC0yMDUyMzYxMzMyLC0xMzA0NTg3
-NTg4LC0xNDk4NDk4Nzk4LDc1NjY2Mzk4MSwtODE2NjEwOTg3LC
-03MDUyODU1MDYsMjA5ODU5NTA0NCw4ODEwODMxOCwtMTk2MjI4
-MjgzOCwyMDkwNTY4Nzk3LC0xMzE1Nzg0MzI0LC0yMTA5NjIyND
-QyLC03ODUwMTY3ODQsNzEwMzIxMDMwLDkxNTU5NTMxNCwxMjI5
-NzgxMTE3XX0=
+eyJoaXN0b3J5IjpbLTg3NTk0NTc5Niw4ODQyMTAwMDMsMTM5OD
+QwMDc5OSwtNDM5MzM3NjYsLTE4MDgyMTM0OTQsLTIwNTIzNjEz
+MzIsLTEzMDQ1ODc1ODgsLTE0OTg0OTg3OTgsNzU2NjYzOTgxLC
+04MTY2MTA5ODcsLTcwNTI4NTUwNiwyMDk4NTk1MDQ0LDg4MTA4
+MzE4LC0xOTYyMjgyODM4LDIwOTA1Njg3OTcsLTEzMTU3ODQzMj
+QsLTIxMDk2MjI0NDIsLTc4NTAxNjc4NCw3MTAzMjEwMzAsOTE1
+NTk1MzE0XX0=
 -->
