@@ -161,7 +161,10 @@ Dalam Wireshark terdapat 2 jenis filter yaitu ***Capture Filter*** dan ***Displa
 
  1. Setelah memiliki packet, pilih pada menu bar File -> Export Objects -> (protokol yang diinginkan). Pada contoh ini dipilih protokol HTTP
 [Gambar]()
- 2. Pilih paket yang akan di-export. Pada contoh ini dipilih paket yang memuat gambar dari situs tertentu tertentu. lalu klik Save dan berikan nama file, path, beserta ekstensinya jika diperlukan
+ 2. Pilih paket yang akan di-export. Pada contoh ini dipilih paket yang memuat gambar dari situs tertentu tertentu. lalu klik Save dan berikan nama file, path, beserta ekstensinya jika diperlukan.
+[Gambar]()
+ 3. File berhasil di-export
+[Gambar]()
 
 ### 2.4 Penggunaan Wireshark pada FTP Server
 Jalankan aplikasi wireshark sebelum *connect* ke server FTP yang dituju.
@@ -188,11 +191,11 @@ Saat hasil capture dari Wireshark dilihat, akan muncul data di bawah ini:
 + https://www.wireshark.org/docs/wsug_html_chunked/ChapterIntroduction.html]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1MTYzMDM1OSwtODE1MTk5MzY4LDExNT
-c2NzgzNiw5MTk3MzM1MiwzNDQxNTI3MjksLTE5ODYwMTc5MzYs
-LTI0NDYwMzY4NSwtODc1OTQ1Nzk2LDg4NDIxMDAwMywxMzk4ND
-AwNzk5LC00MzkzMzc2NiwtMTgwODIxMzQ5NCwtMjA1MjM2MTMz
-MiwtMTMwNDU4NzU4OCwtMTQ5ODQ5ODc5OCw3NTY2NjM5ODEsLT
-gxNjYxMDk4NywtNzA1Mjg1NTA2LDIwOTg1OTUwNDQsODgxMDgz
-MThdfQ==
+eyJoaXN0b3J5IjpbLTIxMDIyMzExNTQsLTgxNTE5OTM2OCwxMT
+U3Njc4MzYsOTE5NzMzNTIsMzQ0MTUyNzI5LC0xOTg2MDE3OTM2
+LC0yNDQ2MDM2ODUsLTg3NTk0NTc5Niw4ODQyMTAwMDMsMTM5OD
+QwMDc5OSwtNDM5MzM3NjYsLTE4MDgyMTM0OTQsLTIwNTIzNjEz
+MzIsLTEzMDQ1ODc1ODgsLTE0OTg0OTg3OTgsNzU2NjYzOTgxLC
+04MTY2MTA5ODcsLTcwNTI4NTUwNiwyMDk4NTk1MDQ0LDg4MTA4
+MzE4XX0=
 -->
