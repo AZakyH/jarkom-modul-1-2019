@@ -116,7 +116,7 @@ Dalam Wireshark terdapat 2 jenis filter yaitu ***Capture Filter*** dan ***Displa
 | `tcp src port 22 || host 10.151.36.30` | Menangkap semua paket dengan protokol TCP yang berasal dari port 22 atau semua paket yang berasal dari atau menuju ke alamat 10.151.36.30 |
 
  - Contoh capture filter `tcp dst port 443`
-[Gambar]()
+![Gambar]()
 
 #### 2.2.2 Display Filter
 
@@ -155,16 +155,16 @@ Dalam Wireshark terdapat 2 jenis filter yaitu ***Capture Filter*** dan ***Displa
 | `http.request.uri constains "login"` | Menampilkan semua paket dengan protokol HTTP yang URI nya mengandung string "login" |
 
  - Contoh display filter `http.accept constains "text"`, berikut hasilnya :
-[Gambar]()
+![Gambar]()
 
 ### 2.3 Export data hasil paket capture
 
  1. Setelah memiliki packet, pilih pada menu bar File -> Export Objects -> (protokol yang diinginkan). Pada contoh ini dipilih protokol HTTP
 ![Gambar]()
  2. Pilih paket yang akan di-export. Pada contoh ini dipilih paket yang memuat gambar dari situs tertentu tertentu. lalu klik Save dan berikan nama file, path, beserta ekstensinya jika diperlukan.
-[Gambar]()
+![Gambar]()
  3. File berhasil di-export
-[Gambar]()
+![Gambar]()
 
 ### 2.4 Penggunaan Wireshark pada FTP Server
 Jalankan aplikasi wireshark sebelum *connect* ke server FTP yang dituju.
@@ -191,7 +191,7 @@ Saat hasil capture dari Wireshark dilihat, akan muncul data di bawah ini:
 + https://www.wireshark.org/docs/wsug_html_chunked/ChapterIntroduction.html]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNDMxMzMxNSwtMjEwMjIzMTE1NCwtOD
+eyJoaXN0b3J5IjpbMTI5MjA3OTQyOSwtMjEwMjIzMTE1NCwtOD
 E1MTk5MzY4LDExNTc2NzgzNiw5MTk3MzM1MiwzNDQxNTI3Mjks
 LTE5ODYwMTc5MzYsLTI0NDYwMzY4NSwtODc1OTQ1Nzk2LDg4ND
 IxMDAwMywxMzk4NDAwNzk5LC00MzkzMzc2NiwtMTgwODIxMzQ5
