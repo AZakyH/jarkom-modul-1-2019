@@ -155,8 +155,8 @@ Dalam Wireshark terdapat 2 jenis filter yaitu ***Capture Filter*** dan ***Displa
 | `ip.src == 192.168.0.1 || ip.dst == 192.168.0.1` | Menampilkan semua paket yang berasal dari alamat 192.168.0.1 atau menuju ke alamat 192.168.0.1 |
 | `http.request.uri constains "login"` | Menampilkan semua paket dengan protokol HTTP yang URI nya mengandung string "login" |
 
- - Contoh display filter `http.accept constains "text"`, berikut hasilnya :
-![Gambar]()
+ - Contoh display filter `tcp.port == 80`, berikut hasilnya :
+![Contoh-display](images/display-filter.png)
 
 ### 2.3 Export data hasil paket capture
 
@@ -192,11 +192,11 @@ Saat hasil capture dari Wireshark dilihat, akan muncul data di bawah ini:
 + https://www.wireshark.org/docs/wsug_html_chunked/ChapterIntroduction.html]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDEzNDU0MzcsLTIyNTk5NjA2NSwxMj
-kyMDc5NDI5LC0yMTAyMjMxMTU0LC04MTUxOTkzNjgsMTE1NzY3
-ODM2LDkxOTczMzUyLDM0NDE1MjcyOSwtMTk4NjAxNzkzNiwtMj
-Q0NjAzNjg1LC04NzU5NDU3OTYsODg0MjEwMDAzLDEzOTg0MDA3
-OTksLTQzOTMzNzY2LC0xODA4MjEzNDk0LC0yMDUyMzYxMzMyLC
-0xMzA0NTg3NTg4LC0xNDk4NDk4Nzk4LDc1NjY2Mzk4MSwtODE2
-NjEwOTg3XX0=
+eyJoaXN0b3J5IjpbNzYwMDYyMzg5LC0yMjU5OTYwNjUsMTI5Mj
+A3OTQyOSwtMjEwMjIzMTE1NCwtODE1MTk5MzY4LDExNTc2Nzgz
+Niw5MTk3MzM1MiwzNDQxNTI3MjksLTE5ODYwMTc5MzYsLTI0ND
+YwMzY4NSwtODc1OTQ1Nzk2LDg4NDIxMDAwMywxMzk4NDAwNzk5
+LC00MzkzMzc2NiwtMTgwODIxMzQ5NCwtMjA1MjM2MTMzMiwtMT
+MwNDU4NzU4OCwtMTQ5ODQ5ODc5OCw3NTY2NjM5ODEsLTgxNjYx
+MDk4N119
 -->
