@@ -193,6 +193,8 @@ Saat hasil capture dari Wireshark dilihat, akan muncul data di bawah ini:
 ##### a. Windows
 Untuk FileZilla drag file dari Local site lalu drop di Remote site
 
+![STOR](images/stor.JPG)
+
 ##### b. Linux
 Command upload untuk linux
 `$ put [full path file]`
@@ -202,6 +204,8 @@ Saat hasil capture dilihat akan muncul data dibawah ini :
 #### 2.4.3 Download File
 ##### a. Windows
 Untuk Filezilla drag file dari Remote site ke Local site
+
+![STOR](images/retr.JPG)
 
 ##### b. Linux
 Command download untuk linux
@@ -216,11 +220,11 @@ Saat hasil capture dilihat akan muncul data dibawah ini :
 + https://www.wireshark.org/docs/wsug_html_chunked/ChapterIntroduction.html]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NTA2MDA3NSwtMTI4OTU2ODI1NSwtMj
-I1OTk2MDY1LDEyOTIwNzk0MjksLTIxMDIyMzExNTQsLTgxNTE5
-OTM2OCwxMTU3Njc4MzYsOTE5NzMzNTIsMzQ0MTUyNzI5LC0xOT
-g2MDE3OTM2LC0yNDQ2MDM2ODUsLTg3NTk0NTc5Niw4ODQyMTAw
-MDMsMTM5ODQwMDc5OSwtNDM5MzM3NjYsLTE4MDgyMTM0OTQsLT
-IwNTIzNjEzMzIsLTEzMDQ1ODc1ODgsLTE0OTg0OTg3OTgsNzU2
-NjYzOTgxXX0=
+eyJoaXN0b3J5IjpbLTgxNjQ5NDYzMiwxNTc1MDYwMDc1LC0xMj
+g5NTY4MjU1LC0yMjU5OTYwNjUsMTI5MjA3OTQyOSwtMjEwMjIz
+MTE1NCwtODE1MTk5MzY4LDExNTc2NzgzNiw5MTk3MzM1MiwzND
+QxNTI3MjksLTE5ODYwMTc5MzYsLTI0NDYwMzY4NSwtODc1OTQ1
+Nzk2LDg4NDIxMDAwMywxMzk4NDAwNzk5LC00MzkzMzc2NiwtMT
+gwODIxMzQ5NCwtMjA1MjM2MTMzMiwtMTMwNDU4NzU4OCwtMTQ5
+ODQ5ODc5OF19
 -->
