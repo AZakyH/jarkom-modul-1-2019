@@ -3,8 +3,8 @@
 ## Daftar Isi
 + 1.[Wire Crimping](#1-wire-crimping)
      + 1.1 [Peralatan yang dibutuhkan](#11-peralatan-yang-dibutuhkan)
-     + 1.2 [Jenis-jenis Konfigurasi Kabel UTP]()
-     + 1.3 [Langkah-langkah](#12-langkah-langkah)
+     + 1.2 [Jenis-jenis Konfigurasi Kabel UTP](#12-konfigurasi-kabel)
+     + 1.3 [Langkah-langkah](#13-langkah-langkah)
 + 2.[Wireshark](#2-wireshark)
 	+ 2.1 [Instalasi](#21-instalasi)
 	+ 2.2 [Filters](#22-filters)
