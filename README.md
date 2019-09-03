@@ -195,6 +195,10 @@ Untuk FileZilla drag file dari Local site lalu drop di Remote site
 
 ![STOR](images/stor.JPG)
 
+| Perintah | Keterangan |
+|---|---|
+| STOR | Meng-upload file  |
+|
 ##### b. Linux
 Command upload untuk linux
 `$ put [full path file]`
@@ -220,11 +224,11 @@ Saat hasil capture dilihat akan muncul data dibawah ini :
 + https://www.wireshark.org/docs/wsug_html_chunked/ChapterIntroduction.html]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNjQ5NDYzMiwxNTc1MDYwMDc1LC0xMj
-g5NTY4MjU1LC0yMjU5OTYwNjUsMTI5MjA3OTQyOSwtMjEwMjIz
-MTE1NCwtODE1MTk5MzY4LDExNTc2NzgzNiw5MTk3MzM1MiwzND
-QxNTI3MjksLTE5ODYwMTc5MzYsLTI0NDYwMzY4NSwtODc1OTQ1
-Nzk2LDg4NDIxMDAwMywxMzk4NDAwNzk5LC00MzkzMzc2NiwtMT
-gwODIxMzQ5NCwtMjA1MjM2MTMzMiwtMTMwNDU4NzU4OCwtMTQ5
-ODQ5ODc5OF19
+eyJoaXN0b3J5IjpbMzc2MjgyNjYwLDE1NzUwNjAwNzUsLTEyOD
+k1NjgyNTUsLTIyNTk5NjA2NSwxMjkyMDc5NDI5LC0yMTAyMjMx
+MTU0LC04MTUxOTkzNjgsMTE1NzY3ODM2LDkxOTczMzUyLDM0ND
+E1MjcyOSwtMTk4NjAxNzkzNiwtMjQ0NjAzNjg1LC04NzU5NDU3
+OTYsODg0MjEwMDAzLDEzOTg0MDA3OTksLTQzOTMzNzY2LC0xOD
+A4MjEzNDk0LC0yMDUyMzYxMzMyLC0xMzA0NTg3NTg4LC0xNDk4
+NDk4Nzk4XX0=
 -->
