@@ -69,8 +69,8 @@ Sebuah jaringan komputer dibangun dengan tujuan mengirimkan atau menerima data a
 Bagian header berisi alamat dan data lainnya yang dibawa oleh paket. Struktur dari header meliputi :  
 | Intruksi | Keterangan |  
 |--|--|  
-| Panjang paket | Beberapa jaringan sudah memiliki panjang paket yang baku (*fixed-lenght*), sementara yang lain bergantung pada header untuk memuat informasi ini |
-| Sinkronisasi | Beberapa bit yang membantu paket mencocokkan jaringan yang dimaksud |
+| Panjang paket | Beberapa jaringan sudah memiliki panjang paket yang baku (*fixed-lenght*), sementara yang lain bergantung pada header untuk memuat informasi ini |  
+| Sinkronisasi | Beberapa bit yang membantu paket mencocokkan jaringan yang dimaksud |  
 | Nomor paket | Menunjukkan urutan dari total paket yang ada |
 | Protokol | Pada jaringan yang membawa lebih dari satu macam informasi, protokol ini menunjukkan jenis paket yang ditransmiskan: e-mail, halaman web, atau yang lain |  
 | Alamat tujuan | Ke mana paket dikirimkan |  
@@ -228,7 +228,7 @@ Saat hasil capture dilihat akan muncul data dibawah ini :
 + https://www.wireshark.org/docs/wsug_html_chunked/ChapterIntroduction.html]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3NDA3MTQ4MSwxNTgwMzgyMTM3LDE1Nz
+eyJoaXN0b3J5IjpbLTEyODU1NDExOSwxNTgwMzgyMTM3LDE1Nz
 UwNjAwNzUsLTEyODk1NjgyNTUsLTIyNTk5NjA2NSwxMjkyMDc5
 NDI5LC0yMTAyMjMxMTU0LC04MTUxOTkzNjgsMTE1NzY3ODM2LD
 kxOTczMzUyLDM0NDE1MjcyOSwtMTk4NjAxNzkzNiwtMjQ0NjAz
