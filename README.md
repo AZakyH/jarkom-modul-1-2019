@@ -197,7 +197,7 @@ Untuk FileZilla drag file dari Local site lalu drop di Remote site
 
 | Perintah | Keterangan |
 |---|---|
-| STOR | Meng-upload file  |
+| STOR | Meng-upload file ke FTP server |
 |
 ##### b. Linux
 Command upload untuk linux
@@ -210,6 +210,11 @@ Saat hasil capture dilihat akan muncul data dibawah ini :
 Untuk Filezilla drag file dari Remote site ke Local site
 
 ![STOR](images/retr.JPG)
+
+| Perintah | Keterangan |
+|---|---|
+| RETR | Men-download suatu file dari FTP server |
+|
 
 ##### b. Linux
 Command download untuk linux
@@ -224,7 +229,7 @@ Saat hasil capture dilihat akan muncul data dibawah ini :
 + https://www.wireshark.org/docs/wsug_html_chunked/ChapterIntroduction.html]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc2MjgyNjYwLDE1NzUwNjAwNzUsLTEyOD
+eyJoaXN0b3J5IjpbODc1Njg2Mjc5LDE1NzUwNjAwNzUsLTEyOD
 k1NjgyNTUsLTIyNTk5NjA2NSwxMjkyMDc5NDI5LC0yMTAyMjMx
 MTU0LC04MTUxOTkzNjgsMTE1NzY3ODM2LDkxOTczMzUyLDM0ND
 E1MjcyOSwtMTk4NjAxNzkzNiwtMjQ0NjAzNjg1LC04NzU5NDU3
