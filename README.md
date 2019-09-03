@@ -66,7 +66,11 @@ Wireshark adalah sebuah aplikasi penganalisa paket jaringan. Penganalisa paket j
 Sebuah jaringan komputer dibangun dengan tujuan mengirimkan atau menerima data antara satu end-point dengan end-point lainnya. Data dikirim dalam bentuk paket-paket. Struktur sebuah paket terdiri dari :
 
 ***1. Header***
-Bagian header berisi alamat dan data lainnya yang dibawa oleh paket. Struktur dari header meliputi :  
+Bagian header berisi alamat dan data lainnya yang dibawa oleh paket. Struktur dari header meliputi :
+| Instruksi | Keterangan |
+| -- | -- |
+| Panjang paket | Beberapa jaringan sudah memiliki panjang paket yang baku (*fixed-length*), sementara yang lain bergantung pada header untuk memuat informasi ini |
+
 | Intruksi | Keterangan |  
 | -- | -- |  
 | Panjang paket | Beberapa jaringan sudah memiliki panjang paket yang baku (*fixed-lenght*), sementara yang lain bergantung pada header untuk memuat informasi ini |  
