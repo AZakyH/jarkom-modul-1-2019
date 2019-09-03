@@ -68,7 +68,7 @@ Sebuah jaringan komputer dibangun dengan tujuan mengirimkan atau menerima data a
 ***1. Header***
 Bagian header berisi alamat dan data lainnya yang dibawa oleh paket. Struktur dari header meliputi :  
 | Intruksi | Keterangan |  
-|--|--|  
+| -- | -- |  
 | Panjang paket | Beberapa jaringan sudah memiliki panjang paket yang baku (*fixed-lenght*), sementara yang lain bergantung pada header untuk memuat informasi ini |  
 | Sinkronisasi | Beberapa bit yang membantu paket mencocokkan jaringan yang dimaksud |  
 | Nomor paket | Menunjukkan urutan dari total paket yang ada |
