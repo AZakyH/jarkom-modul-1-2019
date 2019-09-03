@@ -2,13 +2,13 @@
 
 ## Daftar Isi
 + 1.[Wire Crimping](#1-wire-crimping)
-     + 1.1 [Peralatan yang dibutuhkan](#1-1-peralatan-yang-dibutuhkan)
+     + 1.1 [Peralatan yang dibutuhkan](#11-peralatan-yang-dibutuhkan)
      + 1.2 [Jenis-jenis Konfigurasi Kabel UTP]()
-     + 1.3 [Langkah-langkah](#langkah-langkah)
-+ 2.[Wireshark](#wireshark)
-	+ 2.1 [Instalasi](#instalasi)
-	+ 2.2 [Filters](#filters)
-	+ 2.3 [Export data hasil packet capture](#export-data-hasil-packet-capture)
+     + 1.3 [Langkah-langkah](#12-langkah-langkah)
++ 2.[Wireshark](#2-wireshark)
+	+ 2.1 [Instalasi](#21-instalasi)
+	+ 2.2 [Filters](#22-filters)
+	+ 2.3 [Export data hasil packet capture](#23-export-data-hasil-packet-capture)
 
 
 ## 1. Wire Crimping
@@ -84,7 +84,7 @@ Payload juga disebut sebagai ***body*** dari paket. Pada bagian inilah data yang
 trailer, kadang-kadang disebut ***footer***, biasanya memuat sepasang bit yang memberi sinyal pada perangkat penerima bahwa paket sudah mencapai ujungnya. trailer juga bisa memuat semacam *error checking*.
 
 ### 2.1 Instalasi
-Instalasi untuk OS WIndows atau macOS bisa mengunduh installer pada [ laman ini](https://www.wireshark.org/download.html). Untuk OS linux dapat melihat tutorialnya [di sini]([https://linuxtechlab.com/install-wireshark-linux-centosubuntu/](https://linuxtechlab.com/install-wireshark-linux-centosubuntu/)).
+Instalasi untuk OS WIndows atau macOS bisa mengunduh installer pada [ laman ini](https://www.wireshark.org/download.html). Untuk OS linux dapat melihat tutorialnya [di sini](https://linuxtechlab.com/install-wireshark-linux-centosubuntu/).
 Setelah melakukan instalasi , jalankan Wireshark sebagai **administrator** (WIndows) atau **root** (linux)
 Berikut tampilan awalnya :
 ![wireshark](images/wireshark.png)
@@ -180,7 +180,6 @@ Untuk pengguna windows kita akan menggunakan bantuan **FileZilla**. Buka FileZil
 `$ ftp [Host ip]`
 Masukkan username dan password, kemudian jalankan seperti CLI
 
- 
 Saat hasil capture dari Wireshark dilihat, akan muncul data di bawah ini:
 
 ![Login FileZilla](images/fz_login_wireshark.JPG)
@@ -194,23 +193,23 @@ Saat hasil capture dari Wireshark dilihat, akan muncul data di bawah ini:
 ##### a. Windows
 Untuk FileZilla drag file dari Local site lalu drop di Remote site
 
-![STOR](images/stor.JPG)
-
 | Perintah | Keterangan |
 |---|---|
 | STOR | Meng-upload file ke FTP server |
 
 ##### b. Linux
 Command upload untuk linux
-`$ put [full path file]`
+```
+$ put [full path file]
+```
 
 Saat hasil capture dilihat akan muncul data dibawah ini :
+
+![STOR](images/stor.JPG)
 
 #### 2.4.3 Download File
 ##### a. Windows
 Untuk Filezilla drag file dari Remote site ke Local site
-
-![STOR](images/retr.JPG)
 
 | Perintah | Keterangan |
 |---|---|
@@ -218,15 +217,32 @@ Untuk Filezilla drag file dari Remote site ke Local site
 
 ##### b. Linux
 Command download untuk linux
-`$ get [nama file]`
+```
+$ get [nama file]
+```
 
 Saat hasil capture dilihat akan muncul data dibawah ini :
+
+![STOR](images/retr.JPG)
+
+## Latihan
+1. Ketika mengakses suatu halaman web, berapakah port yang dituju oleh suatu paket?
+2. Apa sajakah perbedaan ketika mengakses halaman utama website if.its.ac.id dan monta.if.its.ac.id? Jelaskan jawaban anda.
+3. Ada berapa jumlah paket yang dikirimkan oleh web server ketika mengunduh file? Mengapa terjadi yang seperti itu?
+4. Dari hasil analisa paket, apa perbedaan ketika menggunakan persistent connection dan non-persistent connection?
+5. Apa perbedaan ketika autentikasi menggunakan method basic dengan digest?
+6. Apa perbedaan ketika mengakses halaman web biasa dengan ketika proses login terjadi?
+7. Apa saja yang selalu dikirimkan browser ke web server?
+
 ## Referensi
 + https://nyengnyeng.com/macam-macam-kabel-jaringan-komputer/
 + http://haidirhmc.blogspot.com/2011/12/urutan-warna-kabel-lan-atau-kabel-t568a.html
 + https://www.nesabamedia.com/pengertian-dan-fungsi-kabel-utp/
 + https://www.berguruit.com/2017/09/cara-crimping-kabel-lan-rj45-yang-baik.html
-+ https://www.wireshark.org/docs/wsug_html_chunked/ChapterIntroduction.html]
++ https://www.wireshark.org/docs/wsug_html_chunked/ChapterIntroduction.html
++ https://www.wireshark.org/docs/wsug_html_chunked/ChCapCaptureFilterSection.html
++ https://www.wireshark.org/docs/wsug_html_chunked/ChWorkBuildDisplayFilterSection.html
++ https://computer.howstuffworks.com/question5251.htm
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTEyODU1NDExOSwxNTgwMzgyMTM3LDE1Nz
