@@ -4,12 +4,11 @@
 + 1.[Wire Crimping](#1-wire-crimping)
      + 1.1 [Peralatan yang dibutuhkan](#11-peralatan-yang-dibutuhkan)
      + 1.2 [Jenis-jenis Konfigurasi Kabel UTP](#12-konfigurasi-kabel)
-     + 1.3 [Langkah-langkah](#13-langkah-langkah)
+     + 1.3 [Langkah-langkah](#13-langkah---langkah)
 + 2.[Wireshark](#2-wireshark)
 	+ 2.1 [Instalasi](#21-instalasi)
 	+ 2.2 [Filters](#22-filters)
-	+ 2.3 [Export data hasil packet capture](#23-export-data-hasil-packet-capture)
-
+	+ 2.3 [Export data hasil packet capture](#23-export-data-hasil-paket-capture)
 
 ## 1. Wire Crimping
 Dalam jaringan komputer, terjadi komunikasi antara satu perangkat dengan perangkat lainnya. Komunikasi itu tentu membutuhkan suatu media. Walaupun sudah ada teknologi komunikasi nirkabel, peran kabel dalam jaringan masih penting dan belum tergantikan. Oleh karena itu dalam modul kali ini, kita akan belajar cara melakukan _crimping_ pada salah satu jenis kabel jaringan yang bernama kabel UTP (_Unshielded Twisted Pair_).
