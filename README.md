@@ -68,7 +68,7 @@ Sebuah jaringan komputer dibangun dengan tujuan mengirimkan atau menerima data a
 Bagian header berisi alamat dan data lainnya yang dibawa oleh paket. Struktur dari header meliputi :
 
 | Intruksi | Keterangan |  
-| -- | -- |  
+|--  |---|
 | Panjang paket | Beberapa jaringan sudah memiliki panjang paket yang baku (*fixed-lenght*), sementara yang lain bergantung pada header untuk memuat informasi ini |  
 | Sinkronisasi | Beberapa bit yang membantu paket mencocokkan jaringan yang dimaksud |  
 | Nomor paket | Menunjukkan urutan dari total paket yang ada |
@@ -186,7 +186,9 @@ Saat hasil capture dari Wireshark dilihat, akan muncul data di bawah ini:
 | Perintah | Keterangan |
 |---|---|
 | USER | Username yang digunakan untuk login ke FTP server |
-| PWD | Password yang digunakan untuk login ke FTP server |
+| PWD | Password yang digunakan untuk login ke FTP server |)
+
+### 2.3 
 
 #### 2.4.2 Upload File
 ##### a. Windows
@@ -204,7 +206,8 @@ $ put [full path file]
 
 Saat hasil capture dilihat akan muncul data dibawah ini :
 
-![STOR](images/stor.JPG)
+![STOR](images/stor.JPGhttp.accept constains "text"`, berikut hasilnya :
+[Gambar]()
 
 #### 2.4.3 Download File
 ##### a. Windows
@@ -231,7 +234,7 @@ Saat hasil capture dilihat akan muncul data dibawah ini :
 4. Dari hasil analisa paket, apa perbedaan ketika menggunakan persistent connection dan non-persistent connection?
 5. Apa perbedaan ketika autentikasi menggunakan method basic dengan digest?
 6. Apa perbedaan ketika mengakses halaman web biasa dengan ketika proses login terjadi?
-7. Apa saja yang selalu dikirimkan browser ke web server?
+7. Apa saja yang selalu dikirimkan browser ke web server?Export data hasil paket capture
 
 ## Referensi
 + https://nyengnyeng.com/macam-macam-kabel-jaringan-komputer/
@@ -241,14 +244,14 @@ Saat hasil capture dilihat akan muncul data dibawah ini :
 + https://www.wireshark.org/docs/wsug_html_chunked/ChapterIntroduction.html
 + https://www.wireshark.org/docs/wsug_html_chunked/ChCapCaptureFilterSection.html
 + https://www.wireshark.org/docs/wsug_html_chunked/ChWorkBuildDisplayFilterSection.html
-+ https://computer.howstuffworks.com/question5251.htm
++ https://computer.howstuffworks.com/question5251.htm]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODU1NDExOSwxNTgwMzgyMTM3LDE1Nz
-UwNjAwNzUsLTEyODk1NjgyNTUsLTIyNTk5NjA2NSwxMjkyMDc5
-NDI5LC0yMTAyMjMxMTU0LC04MTUxOTkzNjgsMTE1NzY3ODM2LD
-kxOTczMzUyLDM0NDE1MjcyOSwtMTk4NjAxNzkzNiwtMjQ0NjAz
-Njg1LC04NzU5NDU3OTYsODg0MjEwMDAzLDEzOTg0MDA3OTksLT
-QzOTMzNzY2LC0xODA4MjEzNDk0LC0yMDUyMzYxMzMyLC0xMzA0
-NTg3NTg4XX0=
+eyJoaXN0b3J5IjpbNjk1MDc1NDgxLC0xMjg1NTQxMTksMTU4MD
+M4MjEzNywxNTc1MDYwMDc1LC0xMjg5NTY4MjU1LC0yMjU5OTYw
+NjUsMTI5MjA3OTQyOSwtMjEwMjIzMTE1NCwtODE1MTk5MzY4LD
+ExNTc2NzgzNiw5MTk3MzM1MiwzNDQxNTI3MjksLTE5ODYwMTc5
+MzYsLTI0NDYwMzY4NSwtODc1OTQ1Nzk2LDg4NDIxMDAwMywxMz
+k4NDAwNzk5LC00MzkzMzc2NiwtMTgwODIxMzQ5NCwtMjA1MjM2
+MTMzMl19
 -->
